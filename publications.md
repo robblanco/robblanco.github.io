@@ -7,7 +7,7 @@ permalink: /publications/
 ## Working papers
 
 * *Translating between implicit and explicit versions of proof*, by Roberto
-  Blanco, Zakaria Chihani, and Dale Miller.
+  Blanco, Zakaria Chihani and Dale Miller.
   [Draft](http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/implicit-explicit-draft.pdf)
   dated 28 January 2016.
 
@@ -26,7 +26,7 @@ permalink: /publications/
 
 * [*Defining the meaning of TPTP formatted
   proofs*](http://easychair.org/publications/download/Defining_the_meaning_of_TPTP_formatted_proofs),
-  by Roberto Blanco, Tomer Libal, and Dale Miller. In: B. Konev, S. Schulz and
+  by Roberto Blanco, Tomer Libal and Dale Miller. In: B. Konev, S. Schulz and
   L. Simon (eds.), **Proceedings of the 11th International Workshop on the
   Implementation of Logics** (IWIL-2015), Suva, Fiji, 23 November 2015. EPiC
   Series in Computing, vol. 40, pp. 78-90.
