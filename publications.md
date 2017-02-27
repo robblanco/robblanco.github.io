@@ -9,7 +9,7 @@ permalink: /publications/
 * *Translating between implicit and explicit versions of proof*, by Roberto
   Blanco, Zakaria Chihani and Dale Miller.
   [Draft](http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/implicit-explicit-draft.pdf)
-  dated 28 January 2016.
+  dated 26 February 2017, submitted.
 
 ## Recent publications
 
