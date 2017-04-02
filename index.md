@@ -12,12 +12,12 @@ under the umbrella of the [Université Paris-Saclay](https://www.universite-pari
 
 My research and technical interests revolve around various interrelated topics:
 
-* Proof theory and sequent calculi, proofs and certificates
-* Formal specification and verification, proof assistants
-* Functional and logic programming, type systems
+ * Proof theory and sequent calculi, proofs and certificates
+ * Formal specification and verification, proof assistants
+ * Functional and logic programming, type systems
 
 The grand unifying theme, and pragmatic motivation, is an ambition that I am
-convinced is both lofty and achievable: this is the need for trust and
+convinced is both lofty and realistic: this is the need for trust and
 correctness — in theorems as in the entire pantheon of formalizable artifacts,
 with software as *primus inter pares* in today's world — and a discipline that
 treats these as first-class abstractions.
