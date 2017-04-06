@@ -10,7 +10,9 @@ cycle at École polytechnique.
 This year's classes:
 
 * [Concurrent and distributed programming (INF431)](https://moodle.polytechnique.fr/course/info.php?name=INF431-2016)
-* [Parallel programming and big data (INF442)](https://moodle.polytechnique.fr/course/info.php?name=INF442-2016)
+* [Parallel programming and big data (INF442)](https://moodle.polytechnique.fr/course/info.php?name=INF442-2016).
+  For this class I have prepared a student project to analyze real-time data
+  from the public transportation system of the Paris metropolitan area.
 
 Last year's classes:
 
