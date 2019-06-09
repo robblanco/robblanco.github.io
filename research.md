@@ -6,12 +6,51 @@ permalink: /research/
 
 ## Working papers
 
-* *Translating between implicit and explicit versions of proof*, by Roberto
-  Blanco, Zakaria Chihani and Dale Miller.
-  [Draft](http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/implicit-explicit-draft.pdf)
-  dated 26 February 2017, accepted for CADE-26.
+* *Property-based testing via proof reconstruction*, by Roberto Blanco, Dale
+  Miller and Alberto Momigliano.
+  [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/pbt-draft.pdf)
+  dated 11 May 2019. Submitted.
+
+* [*Journey beyond full abstraction: exploring robust property preservation for
+  secure compilation*](https://arxiv.org/abs/1807.04603), by Carmine Abate,
+  Roberto Blanco, Deepak Garg, Cătălin Hriţcu, Marco Patrignani and Jérémy
+  Thibault. To be presented at the **32nd IEEE Computer Security Foundations
+  Symposium** (CSF2019), Hoboken, NJ, 27 June 2019.  Distinguished paper award.
 
 ## Recent publications
+
+* [*When good components go bad: formally secure compilation despite dynamic
+  compromise*](https://arxiv.org/abs/1802.00588), by Carmine Abate, Arthur
+  Azevedo de Amorim, Roberto Blanco, Ana Nora Evans, Guglielmo Fachini,
+  Cătălin Hriţcu, Théo Laurent, Benjamin C.  Pierce, Marco Stronati and Andrew
+  Tolmach. In: David Lie, Mohammad Mannan, Michael Backes and XiaoFeng Wang
+  (eds.), **Proceedings of the 25th ACM Conference on Computer and
+  Communications Security** (CCS 2018), pp. 1351-1368, Toronto, Canada, 18
+  October 2018.
+
+* *Design and verification of functional proof checkers*, by Roberto Blanco.
+  In: **Proceedings of the ML Family Workshop 2018**, Saint Louis, MO, 28
+  September 2018.
+
+* Assistant editor (collector) in: *Secure compilation (Dagstuhl seminar
+  18201)*, by Amah Ahmed, Deepak Garg, Cătălin Hriţcu and Frank Piessens (eds.).
+  **Dagstuhl Reports**, vol. 8(5), pp. 1-30, May 2018.
+
+* *Applications of Foundational Proof Certificates in theorem proving*, by
+  Roberto Blanco. Ph.D. dissertation, École polytechnique, Université
+  Paris-Saclay, 21 December 2017.
+
+* *Property-based testing via proof reconstruction: work-in-progress*, by
+  Roberto Blanco, Alberto Momigliano and Dale Miller. In: M. Miculan and F. Rabe
+  (eds.), **Proceedings of the Workshop on Logical Frameworks and
+  Meta-Languages: Theory and Practice** (LFMTP 2017), Oxford, UK, 8 September
+  2017.
+
+* *Translating between implicit and explicit versions of proof*, by Roberto
+  Blanco, Zakaria Chihani and Dale Miller. In: L. de Moura (ed.), **Proceedings
+  of the 26th International Conference on Automated Deduction** (CADE-26),
+  Gothenburg, Sweden, 9 August 2017. Lecture Notes in Computer Science, vol.
+  10395, pp. 255-273.
 
 * *An interactive assistant for the definition of proof certificates*, by
   Roberto Blanco and Zakaria Chihani. In the seminar in honor of the 60th
