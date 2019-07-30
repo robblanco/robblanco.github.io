@@ -6,16 +6,23 @@ permalink: /research/
 
 ## Working papers
 
+* [*Trace-relating compiler correctness and secure compilation*]
+  (https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
+  Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
+  Thibault. Submitted.
+
 * *Property-based testing via proof reconstruction*, by Roberto Blanco, Dale
   Miller and Alberto Momigliano.
   [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/pbt-draft.pdf)
-  dated 11 May 2019. Submitted.
+  dated 11 May 2019. To be presented at the **21st International Symposium on
+  Principles and Practice of Declarative Programming** (PPDP 2019), Porto,
+  Portugal, 7-9 October 2019.
 
 * [*Journey beyond full abstraction: exploring robust property preservation for
   secure compilation*](https://arxiv.org/abs/1807.04603), by Carmine Abate,
   Roberto Blanco, Deepak Garg, Cătălin Hriţcu, Marco Patrignani and Jérémy
-  Thibault. To be presented at the **32nd IEEE Computer Security Foundations
-  Symposium** (CSF2019), Hoboken, NJ, 27 June 2019.  Distinguished paper award.
+  Thibault. Presented at the **32nd IEEE Computer Security Foundations
+  Symposium** (CSF2019), Hoboken, NJ, 27 June 2019. Distinguished paper award.
 
 ## Recent publications
 
