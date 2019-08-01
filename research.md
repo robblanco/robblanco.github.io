@@ -29,7 +29,7 @@ permalink: /research/
 * [*When good components go bad: formally secure compilation despite dynamic
   compromise*](https://arxiv.org/abs/1802.00588), by Carmine Abate, Arthur
   Azevedo de Amorim, Roberto Blanco, Ana Nora Evans, Guglielmo Fachini,
-  Cătălin Hriţcu, Théo Laurent, Benjamin C.  Pierce, Marco Stronati and Andrew
+  Cătălin Hriţcu, Théo Laurent, Benjamin C. Pierce, Marco Stronati and Andrew
   Tolmach. In: David Lie, Mohammad Mannan, Michael Backes and XiaoFeng Wang
   (eds.), **Proceedings of the 25th ACM Conference on Computer and
   Communications Security** (CCS 2018), pp. 1351-1368, Toronto, Canada, 18
@@ -39,9 +39,10 @@ permalink: /research/
   In: **Proceedings of the ML Family Workshop 2018**, Saint Louis, MO, 28
   September 2018.
 
-* Assistant editor (collector) in: *Secure compilation (Dagstuhl seminar
-  18201)*, by Amah Ahmed, Deepak Garg, Cătălin Hriţcu and Frank Piessens (eds.).
-  **Dagstuhl Reports**, vol. 8(5), pp. 1-30, May 2018.
+* Assistant editor (collector) in: [*Secure compilation (Dagstuhl seminar
+  18201)*](http://drops.dagstuhl.de/opus/volltexte/2018/9891/), by Amah Ahmed,
+  Deepak Garg, Cătălin Hriţcu and Frank Piessens (eds.). **Dagstuhl Reports**,
+  vol. 8(5), pp. 1-30, May 2018.
 
 * *Applications of Foundational Proof Certificates in theorem proving*, by
   Roberto Blanco. Ph.D. dissertation, École polytechnique, Université
@@ -49,7 +50,7 @@ permalink: /research/
 
 * *Property-based testing via proof reconstruction: work-in-progress*, by
   Roberto Blanco, Alberto Momigliano and Dale Miller. In: M. Miculan and F. Rabe
-  (eds.), **Proceedings of the Workshop on Logical Frameworks and
+  (eds.), **Proceedings of the International Workshop on Logical Frameworks and
   Meta-Languages: Theory and Practice** (LFMTP 2017), Oxford, UK, 8 September
   2017.
 
