@@ -4,10 +4,20 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### 2019-2020
+
+* Introduction to verified programming.
+
+### 2018-2019
+
+* [Writing and verifying functional programs in Coq](http://www.mathinfoly.org/).
+
 I teach laboratory classes in the computer science track of the engineering
 cycle at École polytechnique in double weekly two-hour sessions.
 
-This year's classes (2016-2017):
+### 2017-2018
+
+### 2016-2017
 
 * [Concurrent and distributed programming (INF431)](https://moodle.polytechnique.fr/course/info.php?name=INF431-2016)
 * [Parallel programming and big data (INF442)](https://moodle.polytechnique.fr/course/info.php?name=INF442-2016).
@@ -15,7 +25,7 @@ This year's classes (2016-2017):
   real-time data from the public transportation system of the Paris metropolitan
   area.
 
-Last year's classes (2015-2016):
+### 2015-2016
 
 * [Concurrent and distributed programming (INF431)](https://moodle.polytechnique.fr/course/info.php?name=INF431-2015)
 * [Programming language principles (INF321)](https://moodle.polytechnique.fr/course/info.php?name=INF321-2015).
