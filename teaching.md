@@ -10,7 +10,10 @@ permalink: /teaching/
 
 ### 2018-2019
 
-* [Writing and verifying functional programs in Coq](http://www.mathinfoly.org/).
+* [Writing and verifying functional programs in Coq](https://prosecco.gforge.inria.fr/personal/hritcu/teaching/lyon2019/)
+  I taught the practical sessions for one of the groups of the
+  [Mathinfoly](http://www.mathinfoly.org/) summer school at INSA in Lyon, and
+  cosupervised all other student activities.
 
 I teach laboratory classes in the computer science track of the engineering
 cycle at École polytechnique in double weekly two-hour sessions.
