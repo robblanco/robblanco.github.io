@@ -15,9 +15,6 @@ permalink: /teaching/
   [Mathinfoly](http://www.mathinfoly.org/) summer school at INSA in Lyon, and
   cosupervised all other student activities.
 
-I teach laboratory classes in the computer science track of the engineering
-cycle at École polytechnique in double weekly two-hour sessions.
-
 ### 2017-2018
 
 In the previous three school years I taught laboratory classes in the computer
@@ -25,6 +22,7 @@ science track of the engineering cycle at École polytechnique, typically in
 weekly two-hour sessions for two separate groups.
 
 * [Computational logic (INF551)](https://moodle.polytechnique.fr/course/info.php?name=INF551-2017)
+  Artificial intelligence in mathematical reasoning.
 
 ### 2016-2017
 
