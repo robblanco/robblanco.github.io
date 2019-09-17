@@ -4,6 +4,15 @@ title: Teaching
 permalink: /teaching/
 ---
 
+I love teaching. It is an intellectually stimulating and deeply rewarding
+activity of which I wish to do more, especially along two axes: teaching full
+courses, both theory and practice; and illuminating the subject matter through
+the lens of my research interests, as I believe they have a crucial role to
+play in our understanding of computing.
+
+This page lists some courses I have been fortunate to teach or plan to teach in
+the near future, as well as related activities.
+
 ### 2019-2020
 
 * Introduction to verified programming.
