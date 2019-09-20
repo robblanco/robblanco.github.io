@@ -10,6 +10,9 @@ courses, both theory and practice; and illuminating the subject matter through
 the lens of my research interests, as I believe they have a crucial role to
 play in our understanding of computing.
 
+I am also very interested in making important concepts more widely accessible,
+in particular to students and professionals.
+
 This page lists some courses I have been fortunate to teach or plan to teach in
 the near future, as well as related activities.
 
