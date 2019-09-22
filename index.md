@@ -2,22 +2,32 @@
 layout: default
 ---
 
-I am a member of the [Prosecco](http://prosecco.gforge.inria.fr/) team
-at [Inria Paris](https://www.inria.fr/en/centre/paris).
+My research interests are centered around the development and application of
+formal methods to solve computer security problems, developed along both axes:
+
+ * Programming languages: proof assistants; formal specification, testing and
+   verification; proof certificates; type systems; computational logic.
+
+ * Computer security: secure compilation; compartmentalization; security
+   policies; secure hardware.
+
+The principal objective of my work is to build secure compilation chains that
+preserve useful classes of security properties while being scalable to realistic
+programming languages and enabling efficient and secure program execution.
+
+Currently, I am a postdoctoral researcher
+in the [Prosecco](http://prosecco.gforge.inria.fr/) team
+at [Inria of Paris](https://www.inria.fr/en/centre/paris).
 I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
-in the themes of the ERC [SECOMP](https://secure-compilation.github.io/) project.
+in the ERC [SECOMP](https://secure-compilation.github.io/) project.
 
-During my doctoral studies,
-I was a member of the [Parsifal](https://team.inria.fr/parsifal/) team
-at [Inria Saclay - Île de France](https://www.inria.fr/en/centre/saclay).
+Previously, I was a doctoral researcher
+in the [Parsifal](https://team.inria.fr/parsifal/) team
+at the [LIX laboratory](https://www.lix.polytechnique.fr/) at
+[École polytechnique](https://www.polytechnique.edu/)
+and [Inria Saclay - Île de France](https://www.inria.fr/en/centre/saclay).
 I was advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/)
-working in the ERC Advanced Grant [ProofCert](https://team.inria.fr/parsifal/proofcert/).
-
-My research and technical interests revolve around various interrelated topics:
-
- * Formal specification and verification, proof assistants
- * Functional and logic programming, type systems
- * Proof theory and sequent calculi, proofs and certificates
+working in the ERC [ProofCert](https://team.inria.fr/parsifal/proofcert/) project.
 
 The grand unifying theme, and pragmatic motivation, is an ambition that I am
 convinced is both lofty and realistic: this is the need for trust and
