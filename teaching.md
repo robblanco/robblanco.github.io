@@ -18,6 +18,10 @@ the near future, as well as related activities.
 
 ### 2019-2020
 
+I am planning to teach a series of short courses in Spain tailored to introduce
+both students (advanced undergrads and up) and professionals to the practical
+use of formal methods, still greatly understudied vis-à-vis other countries.
+
 * Introduction to verified programming.
 
 ### 2018-2019
@@ -29,9 +33,9 @@ the near future, as well as related activities.
 
 ### 2017-2018
 
-In the previous three school years I taught laboratory classes in the computer
-science track of the engineering cycle at École polytechnique, typically in
-weekly two-hour sessions for two separate groups.
+During this and the previous two school years I taught laboratory classes in the
+computer science track of the engineering cycle at École polytechnique,
+typically in weekly two-hour sessions for two separate groups.
 
 * [Computational logic (INF551)](https://moodle.polytechnique.fr/course/info.php?name=INF551-2017)
   Artificial intelligence in mathematical reasoning.
