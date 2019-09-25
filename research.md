@@ -18,13 +18,14 @@ permalink: /research/
   Principles and Practice of Declarative Programming** (PPDP 2019), Porto,
   Portugal, 7-9 October 2019.
 
+## Recent publications
+
 * [*Journey beyond full abstraction: exploring robust property preservation for
   secure compilation*](https://arxiv.org/abs/1807.04603), by Carmine Abate,
   Roberto Blanco, Deepak Garg, Cătălin Hriţcu, Marco Patrignani and Jérémy
-  Thibault. Presented at the **32nd IEEE Computer Security Foundations
-  Symposium** (CSF2019), Hoboken, NJ, 27 June 2019. Distinguished paper award.
-
-## Recent publications
+  Thibault. In: **Proceedings of the 32nd IEEE Computer Security Foundations
+  Symposium** (CSF2019), pp. 256-271, Hoboken, NJ, 27 June 2019. Distinguished
+  paper award.
 
 * [*When good components go bad: formally secure compilation despite dynamic
   compromise*](https://arxiv.org/abs/1802.00588), by Carmine Abate, Arthur
