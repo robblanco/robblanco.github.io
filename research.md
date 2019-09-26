@@ -16,7 +16,7 @@ permalink: /research/
   [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/pbt-draft.pdf)
   dated 11 May 2019. To be presented at the **21st International Symposium on
   Principles and Practice of Declarative Programming** (PPDP 2019), Porto,
-  Portugal, 7-9 October 2019.
+  Portugal, 9 October 2019.
 
 ## Recent publications
 
