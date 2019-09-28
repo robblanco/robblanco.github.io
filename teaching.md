@@ -54,3 +54,10 @@ typically in weekly two-hour sessions for two separate groups.
 * [Programming language principles (INF321)](https://moodle.polytechnique.fr/course/info.php?name=INF321-2015).
   Here I revamped one of the five two-week projects to serve as an introduction
   to unit testing and test-driven development.
+
+### Before
+
+Between 2012 and 2014 I was in charge of various in-house training courses
+offered to junior engineers and testers covering a variety of topics, including
+software stacks, development processes, problem domains, systems architecture
+and business functions.
