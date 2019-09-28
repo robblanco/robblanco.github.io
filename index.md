@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Currently, I am a postdoctoral researcher
+in the [Prosecco](http://prosecco.gforge.inria.fr/) team
+at [Inria of Paris](https://www.inria.fr/en/centre/paris).
+I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
+in the ERC [SECOMP](https://secure-compilation.github.io/) project.
+
 My research interests are centered around the development and application of
 formal methods to solve computer security problems, developed along both axes:
 
@@ -14,12 +20,6 @@ formal methods to solve computer security problems, developed along both axes:
 The principal objective of my work is to build secure compilation chains that
 preserve useful classes of security properties while being scalable to realistic
 programming languages and enabling efficient and secure program execution.
-
-Currently, I am a postdoctoral researcher
-in the [Prosecco](http://prosecco.gforge.inria.fr/) team
-at [Inria of Paris](https://www.inria.fr/en/centre/paris).
-I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
-in the ERC [SECOMP](https://secure-compilation.github.io/) project.
 
 Previously, I was a doctoral researcher
 in the [Parsifal](https://team.inria.fr/parsifal/) team
