@@ -14,7 +14,7 @@ permalink: /research/
 * *Property-based testing via proof reconstruction*, by Roberto Blanco, Dale
   Miller and Alberto Momigliano.
   [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/pbt-draft.pdf)
-  dated 11 May 2019. To be presented at the **21st International Symposium on
+  dated 11 May 2019. Presented at the **21st International Symposium on
   Principles and Practice of Declarative Programming** (PPDP 2019), Porto,
   Portugal, 7 October 2019.
 
