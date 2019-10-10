@@ -6,8 +6,8 @@ permalink: /research/
 
 ## Working papers
 
-* [*Trace-relating compiler correctness and secure compilation*]
-  (https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
+* [*Trace-relating compiler correctness and secure compilation*](
+  https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
   Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
   Thibault. Submitted.
 
@@ -45,8 +45,8 @@ permalink: /research/
   Deepak Garg, Cătălin Hriţcu and Frank Piessens (eds.). **Dagstuhl Reports**,
   vol. 8(5), pp. 1-30, May 2018.
 
-* [*Applications of Foundational Proof Certificates in theorem proving*]
-  (https://www.theses.fr/2017SACLX111), by Roberto Blanco. Ph.D. dissertation,
+* [*Applications of Foundational Proof Certificates in theorem proving*](
+  https://www.theses.fr/2017SACLX111), by Roberto Blanco. Ph.D. dissertation,
   École polytechnique, Université Paris-Saclay, 21 December 2017.
 
 * *Property-based testing via proof reconstruction: work-in-progress*, by
