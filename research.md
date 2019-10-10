@@ -11,14 +11,14 @@ permalink: /research/
   Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
   Thibault. Submitted.
 
+## Recent publications
+
 * *Property-based testing via proof reconstruction*, by Roberto Blanco, Dale
   Miller and Alberto Momigliano.
   [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/pbt-draft.pdf)
-  dated 11 May 2019. Presented at the **21st International Symposium on
-  Principles and Practice of Declarative Programming** (PPDP 2019), Porto,
-  Portugal, 7 October 2019.
-
-## Recent publications
+  dated 11 May 2019. In: Ekaterina Komendantskaya (ed.), **Proceedings of the
+  21st International Symposium on Principles and Practice of Declarative
+  Programming** (PPDP 2019), pp. 5:1-5:13, Porto, Portugal, 7 October 2019.
 
 * [*Journey beyond full abstraction: exploring robust property preservation for
   secure compilation*](https://arxiv.org/abs/1807.04603), by Carmine Abate,
