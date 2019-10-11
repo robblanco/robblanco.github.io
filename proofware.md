@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software
-permalink: /software/
+title: Proofware
+permalink: /proofware/
 ---
 
 A substantial part of my time is devoted to designing and writing software, in
