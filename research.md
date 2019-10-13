@@ -49,21 +49,22 @@ permalink: /research/
   https://www.theses.fr/2017SACLX111), by Roberto Blanco. Ph.D. dissertation,
   École polytechnique, Université Paris-Saclay, 21 December 2017.
 
-* *Property-based testing via proof reconstruction: work-in-progress*, by
-  Roberto Blanco, Alberto Momigliano and Dale Miller. In: M. Miculan and F. Rabe
-  (eds.), **Proceedings of the International Workshop on Logical Frameworks and
-  Meta-Languages: Theory and Practice** (LFMTP 2017), Oxford, UK, 8 September
-  2017.
+* [*Property-based testing via proof reconstruction: work-in-progress*](
+  https://hal.inria.fr/hal-01646788), by Roberto Blanco, Alberto Momigliano
+  and Dale Miller. In: M. Miculan and F. Rabe (eds.), **Proceedings of the
+  International Workshop on Logical Frameworks and Meta-Languages: Theory and
+  Practice** (LFMTP 2017), Oxford, UK, 8 September 2017.
 
-* *Translating between implicit and explicit versions of proof*, by Roberto
-  Blanco, Zakaria Chihani and Dale Miller. In: L. de Moura (ed.), **Proceedings
-  of the 26th International Conference on Automated Deduction** (CADE-26),
-  Gothenburg, Sweden, 9 August 2017. Lecture Notes in Computer Science, vol.
-  10395, pp. 255-273.
+* [*Translating between implicit and explicit versions of proof*](
+  https://hal.inria.fr/hal-01645016), by Roberto Blanco, Zakaria Chihani and
+  Dale Miller. In: L. de Moura (ed.), **Proceedings of the 26th International
+  Conference on Automated Deduction** (CADE-26), Gothenburg, Sweden, 9 August
+  2017. Lecture Notes in Computer Science, vol. 10395, pp. 255-273.
 
-* *An interactive assistant for the definition of proof certificates*, by
-  Roberto Blanco and Zakaria Chihani. In the seminar in honor of the 60th
-  birthday of Dale Miller (Dale Fest), Paris, France, 15 December 2016.
+* [*An interactive assistant for the definition of proof certificates*](
+  https://hal.inria.fr/hal-01422829), by Roberto Blanco and Zakaria Chihani. In
+  the seminar in honor of the 60th birthday of Dale Miller (Dale Fest), Paris,
+  France, 15 December 2016.
 
 * [*Proof outlines as proof certificates: a system
   description*](http://eptcs.web.cse.unsw.edu.au/paper.cgi?WoF15.2.pdf), by
