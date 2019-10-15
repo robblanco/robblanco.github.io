@@ -23,6 +23,10 @@ both students (advanced undergrads and up) and professionals to the practical
 use of formal methods, still greatly understudied vis-à-vis other countries.
 
 * Introduction to verified programming.
+  Upcoming course based on Software Foundations.
+
+* Advanced functional programming.
+  Another course in preparation.
 
 ### 2018-2019
 
