@@ -4,13 +4,19 @@ title: Proofware
 permalink: /proofware/
 ---
 
-A substantial part of my time is devoted to designing and writing software, in
-particular software that proves things about other formal artifacts: programs,
-formulas of logic, mathematical theorems, etc. This comprises work on a bestiary
-of systems that includes proof checkers, interactive theorem provers, and
-increasingly compilers and interpreters. Some of this work is publicly
-available as free and open source software, while more experimental and
-embryonic branches patiently bid their time.
+(Remember, [proofs are programs](
+https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)!)
+
+An important part of my time is devoted to designing, writing and proving
+software, as well as techniques to do all these things. The programs that I am
+interested in themselves prove things about formal artifacts: other programs,
+logic formulas, mathematical theorems, etc. Some of these systems, such as
+proof assistants and automated theorem provers, can directly offer formal
+guarantees by connecting a formalized program specification with its verified
+implementation. Others, like programming languages and their compilers, can
+themselves be verified and impart indirectly, by way of their specification,
+certain guarantees to the programs they manipulate, such as correctness of
+translation or useful security properties.
 
 * Recently, I am giving plentiful thought to the proof assistant
   [Abella](http://abella-prover.org/): both in relatively self-contained but
