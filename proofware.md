@@ -36,3 +36,6 @@ translation or useful security properties.
   Google Summer of Code 2016.
 
 * ...
+
+Some of this work is publicly available as free and open source software, while
+more experimental embryonic projects patiently bid their time.
