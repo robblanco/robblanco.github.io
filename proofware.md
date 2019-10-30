@@ -39,3 +39,9 @@ translation or useful security properties.
 
 Some of this work is publicly available as free and open source software, while
 more experimental embryonic projects patiently bid their time.
+
+Previously, I have worked as a software engineer building and maintaining
+complex software systems for insurance, as well as built high-performance
+scientific computing systems for bioinformatics applications, among others. All
+these experiences inform my understanding of what computer systems are and what
+they can be, not only conceptually but also in practice.
