@@ -29,11 +29,11 @@ translation or useful security properties.
   correct by construction or certified), as well as foundational proof
   certificate formats, belong here.
 
-* Last year, I commenced work on a gradually typed flavor of the Ruby
+* During the summer of 2016, I prototyped a gradually typed flavor of the Ruby
   programming language, similar in spirit to recent developments for other
-  dynamic languages like TypeScript --- though incubating my dissertation
-  presently keeps me from revisiting it. The original proposal was supported by
-  Google Summer of Code 2016.
+  dynamic languages --- though my various other projects have kept me from
+  revisiting it. The original proposal was supported by the Google Summer of
+  Code program.
 
 * ...
 
