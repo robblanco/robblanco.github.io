@@ -18,10 +18,12 @@ themselves be verified and impart indirectly, by way of their specification,
 certain guarantees to the programs they manipulate, such as correctness of
 translation or useful security properties.
 
-* Recently, I am giving plentiful thought to the proof assistant
-  [Abella](http://abella-prover.org/): both in relatively self-contained but
-  useful features and technical improvements; and in large, ongoing
-  modifications to the kernel of the system.
+* I have given plenty of thought to the proof assistant
+  [Abella](http://abella-prover.org/), both in relatively self-contained but
+  useful features and technical improvements, and in large, ongoing
+  modifications to the kernel of the system. More broadly, I am working on the
+  design of elegant and programmable tactical languages for proof automation,
+  extending their applicability to the Coq proof assistant.
 
 * Many smaller projects are directly related to the declared goal of ProofCert
   of universal production, communication (i.e., reuse) and checking (i.e.,
