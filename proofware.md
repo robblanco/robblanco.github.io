@@ -37,10 +37,10 @@ translation or useful security properties.
   revisiting it. The original proposal was supported by the Google Summer of
   Code program.
 
-* ...
+* ... and more!
 
 Some of this work is publicly available as free and open source software, while
-more experimental embryonic projects patiently bid their time.
+more experimental, embryonic projects patiently bid their time.
 
 Previously, I have worked as a software engineer building and maintaining
 complex software systems for insurance, as well as built high-performance
