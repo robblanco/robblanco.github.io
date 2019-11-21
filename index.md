@@ -3,6 +3,7 @@ layout: default
 ---
 
 Currently, I am a postdoctoral researcher
+(presently to become a Starting Researcher)
 in the [Prosecco](http://prosecco.gforge.inria.fr/) team
 at [Inria of Paris](https://www.inria.fr/en/centre/paris).
 I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
