@@ -7,7 +7,8 @@ Currently, I am a postdoctoral researcher
 in the [Prosecco](http://prosecco.gforge.inria.fr/) team
 at [Inria of Paris](https://www.inria.fr/en/centre/paris).
 I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
-in the ERC [SECOMP](https://secure-compilation.github.io/) project.
+in the ERC [SECOMP](https://secure-compilation.github.io/) project
+and the DARPA [SSITH/HOPE](https://www.darpa.mil/news-events/2017-04-10) project.
 
 My research interests are centered around the development and application of
 formal methods to solve computer security problems, developed along both axes:
