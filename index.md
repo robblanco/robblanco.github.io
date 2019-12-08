@@ -19,9 +19,10 @@ formal methods to solve computer security problems, developed along both axes:
  * Computer security: secure compilation; compartmentalization; security
    policies; secure hardware.
 
-The principal objective of my work is to build secure compilation chains that
-preserve useful classes of security properties while being scalable to realistic
-programming languages and enabling efficient and secure program execution.
+The principal objective of my work at Prosecco is to build secure compilation
+chains that preserve useful classes of security properties while scaling to
+realistic programming languages and enabling efficient and secure program
+execution.
 
 Previously, I was a doctoral researcher
 in the [Parsifal](https://team.inria.fr/parsifal/) team
