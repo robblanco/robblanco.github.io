@@ -9,7 +9,8 @@ permalink: /publications/
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
   Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
-  Thibault. Submitted.
+  Thibault. Accepted for publication at the **29th European Symposium on
+  Programming** (ESOP 2020).
 
 ## Recent publications
 
