@@ -18,6 +18,8 @@ the near future, as well as related activities.
 
 ### 2019-2020
 
+* Software engineering (CS3053)
+
 I am planning to teach a series of short courses in Spain tailored to introduce
 both students (advanced undergrads and up) and professionals to the practical
 use of formal methods, still greatly understudied vis-à-vis other countries.
