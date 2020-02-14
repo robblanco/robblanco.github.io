@@ -6,11 +6,23 @@ permalink: /publications/
 
 ## Working papers
 
+* *FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
+  (system description)*, by Roberto Blanco, Matteo Manighetti and Dale Miller.
+  Submitted.
+
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
   Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
   Thibault. Accepted for publication at the **29th European Symposium on
   Programming** (ESOP 2020).
+
+* *On the proof theory of property-based testing of coinductive specifications,
+  or: PBT to infinity and beyond*, by Roberto Blanco, Dale Miller and Alberto
+  Momigliano.
+  [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/types2020-abstract.pdf)
+  dated 5 February 2020. Accepted to the **26th International Conference on
+  Types for Proofs and Programs** (TYPES 2020).
+
 
 ## Recent publications
 
