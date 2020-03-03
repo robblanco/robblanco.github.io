@@ -21,7 +21,7 @@ permalink: /publications/
   Momigliano.
   [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/types2020-abstract.pdf)
   dated 5 February 2020. Accepted to the **26th International Conference on
-  Types for Proofs and Programs** (TYPES 2020).
+  Types for Proofs and Programs** (TYPES 2020). (Event not held.)
 
 
 ## Recent publications
