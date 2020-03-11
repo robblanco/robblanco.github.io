@@ -22,6 +22,10 @@ the near future, as well as related activities.
   I am currently a lecturer at the American University of Paris, teaching a full
   course based on the excellent *Engineering Software as a Service*.
 
+* Software foundations: introduction to verified programming.
+  Upcoming course to be taught as part of the interdisciplinary summer school of
+  the University of Zaragoza.
+
 I am planning to teach a series of short courses in Spain tailored to introduce
 both students (advanced undergrads and up) and professionals to the practical
 use of formal methods, still greatly understudied vis-à-vis other countries.
