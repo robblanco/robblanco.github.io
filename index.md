@@ -4,7 +4,7 @@ layout: default
 
 Currently, I am a Starting Researcher
 in the [Prosecco](http://prosecco.gforge.inria.fr/) team
-at [Inria of Paris](https://www.inria.fr/en/centre/paris).
+at [Inria Paris](https://www.inria.fr/en/centre/paris).
 I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
 in the ERC [SECOMP](https://secure-compilation.github.io/) project
 and the DARPA [SSITH](https://www.darpa.mil/news-events/2017-04-10) HOPE project.
@@ -31,8 +31,9 @@ and [Inria Saclay - Île de France](https://www.inria.fr/en/centre/saclay).
 I was advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/)
 working in the ERC [ProofCert](https://team.inria.fr/parsifal/proofcert/) project.
 
-The grand unifying theme, and pragmatic motivation, is an ambition that I am
-convinced is both lofty and realistic: this is the need for trust and
-correctness — in theorems as in the entire pantheon of formalizable artifacts,
-with software as *primus inter pares* in today's world — and a discipline that
-treats these as first-class abstractions.
+A grand unifying theme and pragmatic motivation of my research is an ambition
+that I am convinced is both lofty and realistic: this is the need for trust
+(which encompasses a notion of security) and correctness — in theorems as in
+the entire pantheon of formalizable artifacts, with software as *primus inter
+pares* in today's world — and a discipline that treats these as first-class
+abstractions.
