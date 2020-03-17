@@ -4,10 +4,13 @@ title: Fundamentos del software UZ 2020
 permalink: /teaching/unizar2020/
 ---
 
-## Presentación
-
 Te damos la bienvenida a la página web de *Fundamentos del software:
 introducción a la programación verificada*.
+
+* auto-gen TOC:
+{:toc}
+
+## Presentación
 
 ¿Es posible construir sistemas informáticos libres de errores? Lejos de ser una
 pura curiosidad académica, este curso da una respuesta afirmativa y
