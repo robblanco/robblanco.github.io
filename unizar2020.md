@@ -53,3 +53,20 @@ doctorado, máster y cursos avanzados de grado, en particular en informática,
 matemáticas y disciplinas próximas.
 
 ## Materiales
+
+## Equipo docente
+
+[Roberto Blanco](https://robblanco.github.io/) es ingeniero en informática por
+la Universidad de Zaragoza y doctor en informática por la École
+polytechnique/Université Paris-Saclay, y Starting Researcher en la sede de
+París de Inria, centro de desarrollo del sistema Coq. Su trabajo gira en torno
+al desarrollo de métodos formales y su aplicación a la verificación de sistemas
+informáticos y de su seguridad, concentrado en la actualidad en la compilación
+segura.
+
+[Ricardo J. Rodríguez](https://webdiis.unizar.es/~ricardo/) es ingeniero en
+informática por la Universidad de Zaragoza y doctor en informática por la la
+misma universidad. Actualmente es profesor en la Escuela de Ingeniería y
+Arquitectura de la Universidad de Zaragoza, donde realiza tareas docentes y de
+investigación. Su trabajo de investigación gira en torno al análisis de
+propiedades de sistemas como rendimiento, seguridad y *dependability*.
