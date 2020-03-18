@@ -38,8 +38,8 @@ obedece. A lo largo del curso:
 
 Las sesiones de trabajo combinan la exposición aplicada de conceptos con su
 puesta en práctica interactiva, complementada por ejercicios con los que los
-participantes desarrollarán gradualmente su dominio del lenguaje, que culminará
-con la construcción de un pequeño sistema verificado.
+participantes desarrollarán gradualmente su dominio de las herramientas de
+desarrollo, que culminará en la construcción de un pequeño sistema verificado.
 
 ## Requisitos
 
