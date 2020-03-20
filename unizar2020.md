@@ -39,17 +39,18 @@ obedece. A lo largo del curso:
 Las sesiones de trabajo combinan la exposición aplicada de conceptos con su
 puesta en práctica interactiva, complementada por ejercicios con los que los
 participantes desarrollarán gradualmente su dominio de las herramientas de
-desarrollo, que culminará en la construcción de un pequeño sistema verificado.
+desarrollo, que culminarán en la construcción de un pequeño sistema verificado.
 
 ## Requisitos
 
 El curso es accesible a cualquier persona con conocimientos de lenguajes de
-programación y fundamentos matemáticos comparables a los de un estudiante de
-segundo curso de grado en Ingeniería en Informática, o experiencia asimilable.
+programación y fundamentos matemáticos comparables a los de un segundo curso de
+grado en ingeniería informática, matemáticas y planes de estudios relacionados,
+o experiencia asimilable.
 
 Puede ser especialmente interesante para ingenieros titulados, investigadores y
-profesionales de las tecnologías de la información, así como a estudiantes de
-doctorado, máster y cursos avanzados de grado, en particular en informática,
+profesionales de las tecnologías de la información, así como para estudiantes
+de doctorado, máster y cursos avanzados de grado, en particular en informática,
 matemáticas y disciplinas próximas.
 
 ## Materiales
@@ -65,8 +66,8 @@ informáticos y de su seguridad, concentrado en la actualidad en la compilación
 segura.
 
 [Ricardo J. Rodríguez](https://webdiis.unizar.es/~ricardo/) es ingeniero en
-informática por la Universidad de Zaragoza y doctor en informática por la la
-misma universidad. Actualmente es profesor en la Escuela de Ingeniería y
-Arquitectura de la Universidad de Zaragoza, donde realiza tareas docentes y de
+informática por la Universidad de Zaragoza y doctor en informática por la misma
+universidad. Actualmente es profesor en la Escuela de Ingeniería y Arquitectura
+de la Universidad de Zaragoza, donde realiza tareas docentes y de
 investigación. Su trabajo de investigación gira en torno al análisis de
 propiedades de sistemas como rendimiento, seguridad y *dependability*.
