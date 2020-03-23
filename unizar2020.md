@@ -53,7 +53,63 @@ profesionales de las tecnologías de la información, así como para estudiantes
 de doctorado, máster y cursos avanzados de grado, en particular en informática,
 matemáticas y disciplinas próximas.
 
+## Programa
+
+Día 1
+
+ * Sesión 1: Programas funcionales. Inducción estructural. Estructuras de datos: listas
+
+ * Sesión 2: Programación genérica: polimorfismo. Tácticas de demostración
+
+ * Sesión 3: Lógica computacional
+
+ * Sesión 4: Introducción a la programación segura: Motivación y estándares
+
+Día 2
+
+ * Sesión 1: Proposiciones inductivas (1ª parte)
+
+ * Sesión 2: Proposiciones inductivas (2ª parte)
+
+ * Sesión 3: Diccionarios. Semántica de los lenguajes imperativos (1ª parte)
+
+ * Sesión 4: Programación segura: Lenguajes de programación. Lenguaje C
+
+Día 3
+
+ * Sesión 1: Semántica de los lenguajes imperativos (2ª parte)
+
+ * Sesión 2: Automatización de demostraciones
+
+ * Sesión 3: Caso de estudio. Proyectos de curso
+
+ * Sesión 4: Programación segura: Cadenas. Enteros
+
+Día 4
+
+ * Sesión 1: Verificación funcional. Ordenación
+
+ * Sesión 2: Árboles binarios. Encapsulación. Generación de código verificado
+
+ * Sesión 3: Árboles rojinegros. Automatización práctica
+
+ * Sesión 4: Programación segura: Salidas con formato. Condiciones de carrera
+
+Día 5
+
+ * Sesión 1: Verificación imperativa. Lógica de Hoare (1ª parte)
+
+ * Sesión 2: Lógica de Hoare (2ª parte). Verificación del lenguaje C
+
+ * Sesión 3: Estado del arte del software verificado
+
+ * Sesión 4: Laboratorio de programación segura
+
+## Lugar de celebración
+
 ## Materiales
+
+Disponibles próximamente.
 
 ## Equipo docente
 
