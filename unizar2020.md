@@ -18,8 +18,8 @@ matemáticamente rigurosa a esta pregunta fundamental y proporciona las
 herramientas necesarias para su puesta en práctica.
 
 La corrección de un programa se establece en base a una especificación: un
-programa lleva asociada una especificación y es correcto si y solo si la
-obedece. A lo largo del curso:
+programa que lleva asociada una especificación es correcto con respecto a la
+misma si y solo si obedece dicha especificación. A lo largo del curso:
 
  1. Aprenderemos los fundamentos y lenguajes de programación que permiten, por
     una parte, expresar especificaciones como valores de primera clase del
