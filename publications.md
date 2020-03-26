@@ -26,11 +26,10 @@ permalink: /publications/
 
 ## Recent publications
 
-* *Property-based testing via proof reconstruction*, by Roberto Blanco, Dale
-  Miller and Alberto Momigliano.
-  [Draft](https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/pbt-draft.pdf)
-  dated 11 May 2019. In: Ekaterina Komendantskaya (ed.), **Proceedings of the
-  21st International Symposium on Principles and Practice of Declarative
+* [*Property-based testing via proof reconstruction*](
+  https://hal.inria.fr/hal-02368931), by Roberto Blanco, Dale Miller and Alberto
+  Momigliano. In: Ekaterina Komendantskaya (ed.), **Proceedings of the 21st
+  International Symposium on Principles and Practice of Declarative
   Programming** (PPDP 2019), pp. 5:1-5:13, Porto, Portugal, 7 October 2019.
 
 * [*Journey beyond full abstraction: exploring robust property preservation for
