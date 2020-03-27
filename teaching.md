@@ -4,17 +4,19 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I love teaching. It is an intellectually stimulating and deeply rewarding
-activity of which I wish to do more, especially along two axes: teaching full
-courses, both theory and practice; and illuminating the subject matter through
-the lens of my research interests, as I believe they have a crucial role to
-play in our understanding of computing.
+I love teaching. It is deeply rewarding both personally and intellectually, and
+a necessary extension of personal study and research.
 
-I am also very interested in making important concepts more widely accessible,
-in particular to students and professionals.
+I am interested in organizing and teaching innovative courses as head
+instructor, as well as in collaborating with others to teach such courses at
+various levels.
 
-This page lists some courses I have been fortunate to teach or plan to teach in
-the near future, as well as related activities.
+In particular, I am very keen to make novel and important developments
+accessible and useful to students and professionals alike, especially in my
+areas of expertise; as well to mentor people interested in these areas.
+
+This page lists some courses that I have been fortunate to teach and plan to
+teach in the near future, as well as related activities.
 
 ### 2019-2020
 
