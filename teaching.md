@@ -24,7 +24,7 @@ teach in the near future, as well as related activities.
   I am currently a lecturer at the American University of Paris, teaching a full
   course based on the excellent *Engineering Software as a Service*.
 
-* [Software foundations: introduction to verified programming](/unizar2020/).
+* [Software foundations: introduction to verified programming](/teaching/unizar2020/).
   Upcoming course to be taught as part of the interdisciplinary summer school of
   the University of Zaragoza.
 
