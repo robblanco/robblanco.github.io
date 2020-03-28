@@ -25,6 +25,7 @@ execution.
 
 Previously, I was a doctoral researcher
 in the [Parsifal](https://team.inria.fr/parsifal/) team
+(now [Partout](https://team.inria.fr/partout/))
 at the [LIX laboratory](https://www.lix.polytechnique.fr/) at
 [École polytechnique](https://www.polytechnique.edu/)
 and [Inria Saclay - Île de France](https://www.inria.fr/en/centre/saclay).
