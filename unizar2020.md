@@ -117,7 +117,7 @@ Disponible próximamente.
 
 ## Espacios participativos
 
-Disponible próximamente.
+Disponibles próximamente.
 
 ## Equipo docente
 
