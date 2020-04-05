@@ -34,7 +34,8 @@ teach in the near future, as well as related activities.
 I am planning to teach a series of short courses tailored to introduce both
 students (advanced undergrads and up) and professionals to the practical use of
 formal methods in Spain, where these topics are still greatly understudied
-vis-à-vis other countries.
+vis-à-vis other countries. (These are currently on hold due to the 2019-20
+coronavirus pandemic).
 
 * Introduction to verified programming.
   Upcoming course based on Software Foundations.
