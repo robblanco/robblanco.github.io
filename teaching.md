@@ -25,7 +25,7 @@ teach in the near future, as well as related activities.
   full course based on the excellent *Engineering Software as a Service*. The
   second half of this class, including the group projects in which students
   build web applications applying modern methodologies, is being carried out
-  remotely in geographically distributed teams.
+  remotely by geographically distributed teams of students.
 
 * [Software foundations: introduction to verified programming](/teaching/unizar2020/).
   Upcoming course to be taught as part of the interdisciplinary summer school of
