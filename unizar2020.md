@@ -7,6 +7,10 @@ permalink: /teaching/unizar2020/
 Te damos la bienvenida a la página web del curso *Fundamentos del software:
 introducción a la programación verificada*.
 
+Puedes consultar la descripción del curso en
+[la web de los cursos de verano](https://cursosextraordinarios.unizar.es/curso/2020/fundamentos-del-software-introduccion-la-programacion-verificada) y preinscribirte hasta el 31 de mayo rellenando el
+[formulario de inscripción](https://cursosextraordinarios.unizar.es/formulario-inscripcion).
+
 Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 * auto-gen TOC:
