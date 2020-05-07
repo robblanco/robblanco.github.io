@@ -59,6 +59,13 @@ profesionales de las tecnologías de la información, así como para estudiantes
 de doctorado, máster y cursos avanzados de grado, en particular en informática,
 matemáticas y disciplinas próximas.
 
+Las preinscripciones y solicitudes de información se realizan a través de este
+[formulario](https://cursosextraordinarios.unizar.es/formulario-inscripcion).
+La Universidad de Zaragoza evaluará las posibilidades de celebración del curso,
+lugares y fechas en función del número de inscritos en la primera semana de
+junio y las condiciones sanitarias. Por ello, animamos a los interesados a
+completar la solicitud durante el mes de mayo.
+
 ## Programa
 
 Día 1
