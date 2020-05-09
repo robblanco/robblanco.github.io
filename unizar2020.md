@@ -147,3 +147,11 @@ universidad. Actualmente es profesor en la Escuela de Ingeniería y Arquitectura
 de la Universidad de Zaragoza, donde realiza tareas docentes y de
 investigación. Su trabajo de investigación gira en torno al análisis de
 propiedades de sistemas como rendimiento, seguridad y *dependability*.
+
+# Patrocinadores y ayudas
+
+El
+[Colegio Profesional de Ingenieros en Informática de Aragón](https://cpiiaragon.es/)
+subvencionará la participación en el curso a sus colegiados reembolsándoles
+la diferencia entre la tarifa general y la tarifa reducida, de forma que puedan
+disfrutar de esta última.
