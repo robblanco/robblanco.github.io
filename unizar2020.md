@@ -16,6 +16,13 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 * auto-gen TOC:
 {:toc}
 
+## Noticias
+
+ * **27 de abril de 2020**
+
+   Publicación de los cursos de verano y apertura del periodo de preinscripción
+   y solicitud de información.
+
 ## Presentación
 
 ¿Es posible construir sistemas informáticos libres de errores? Lejos de ser una
