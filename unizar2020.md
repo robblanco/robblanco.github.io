@@ -8,8 +8,8 @@ Te damos la bienvenida a la página web del curso *Fundamentos del software:
 introducción a la programación verificada*.
 
 Puedes consultar la descripción del curso en
-[la web de los cursos de verano](https://cursosextraordinarios.unizar.es/curso/2020/fundamentos-del-software-introduccion-la-programacion-verificada) y preinscribirte hasta el 31 de mayo rellenando el
-[formulario de inscripción](https://cursosextraordinarios.unizar.es/formulario-inscripcion).
+[la web de los cursos de verano](https://cursosextraordinarios.unizar.es/curso/2020/fundamentos-del-software-introduccion-la-programacion-verificada) y preinscribirte hasta el 31 de mayo rellenando
+[el formulario de inscripción](https://cursosextraordinarios.unizar.es/formulario-inscripcion).
 
 Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
@@ -75,55 +75,55 @@ completar la solicitud durante el mes de mayo.
 
 ## Programa
 
-Día 1
+13 de julio
 
- * Sesión 1: Programas funcionales. Inducción estructural. Estructuras de datos: listas
+ * 09.00-10.30: Programas funcionales. Inducción estructural. Estructuras de datos: listas
 
- * Sesión 2: Programación genérica: polimorfismo. Tácticas de demostración
+ * 11.00-12:30: Programación genérica: polimorfismo. Tácticas de demostración
 
- * Sesión 3: Lógica computacional
+ * 14.00-15.30: Lógica computacional
 
- * Sesión 4: Introducción a la programación segura: Motivación y estándares
+ * 16.00-17.30: Introducción a la programación segura: Motivación y estándares
 
-Día 2
+14 de julio
 
- * Sesión 1: Proposiciones inductivas (1ª parte)
+ * 09.00-10.30: Proposiciones inductivas (1ª parte)
 
- * Sesión 2: Proposiciones inductivas (2ª parte)
+ * 11.00-12:30: Proposiciones inductivas (2ª parte)
 
- * Sesión 3: Diccionarios. Semántica de los lenguajes imperativos (1ª parte)
+ * 14.00-15.30: Diccionarios. Semántica de los lenguajes imperativos (1ª parte)
 
- * Sesión 4: Programación segura: Lenguajes de programación. Lenguaje C
+ * 16.00-17.30: Programación segura: Lenguajes de programación. Lenguaje C
 
-Día 3
+15 de julio
 
- * Sesión 1: Semántica de los lenguajes imperativos (2ª parte)
+ * 09.00-10.30: Semántica de los lenguajes imperativos (2ª parte)
 
- * Sesión 2: Automatización de demostraciones
+ * 11.00-12:30: Automatización de demostraciones
 
- * Sesión 3: Caso de estudio. Proyectos de curso
+ * 14.00-15.30: Caso de estudio. Proyectos de curso
 
- * Sesión 4: Programación segura: Cadenas. Enteros
+ * 16.00-17.30: Programación segura: Cadenas. Enteros
 
-Día 4
+16 de julio
 
- * Sesión 1: Verificación funcional. Ordenación
+ * 09.00-10.30: Verificación funcional. Ordenación
 
- * Sesión 2: Árboles binarios. Encapsulación. Generación de código verificado
+ * 11.00-12:30: Árboles binarios. Encapsulación. Generación de código verificado
 
- * Sesión 3: Árboles rojinegros. Automatización práctica
+ * 14.00-15.30: Árboles rojinegros. Automatización práctica
 
- * Sesión 4: Programación segura: Salidas con formato. Condiciones de carrera
+ * 16.00-17.30: Programación segura: Salidas con formato. Condiciones de carrera
 
-Día 5
+17 de julio
 
- * Sesión 1: Verificación imperativa. Lógica de Hoare (1ª parte)
+ * 09.00-10.30: Verificación imperativa. Lógica de Hoare (1ª parte)
 
- * Sesión 2: Lógica de Hoare (2ª parte). Verificación del lenguaje C
+ * 11.00-12:30: Lógica de Hoare (2ª parte). Verificación del lenguaje C
 
- * Sesión 3: Estado del arte del software verificado
+ * 14.00-15.30: Estado del arte del software verificado
 
- * Sesión 4: Laboratorio de programación segura
+ * 16.00-17.30: Laboratorio de programación segura
 
 ## Materiales
 
