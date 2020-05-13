@@ -21,11 +21,11 @@ teach in the near future, as well as related activities.
 ### 2019-2020
 
 * [Software engineering (CS3053)](https://catalog.aup.edu/course/cs3053/spring-2020).
-  I am currently a lecturer at the American University of Paris, teaching a
+  I was a lecturer at the American University of Paris, teaching a
   full course based on the excellent *Engineering Software as a Service*. The
   second half of this class, including the group projects in which students
-  build web applications applying modern methodologies, is being carried out
-  remotely by geographically distributed teams of students.
+  built web applications applying modern technologies methodologies, was carried
+  out remotely by geographically distributed teams of students.
 
 * [Software foundations: introduction to verified programming](/teaching/unizar2020/).
   Upcoming course to be taught as part of the interdisciplinary summer school of
