@@ -7,6 +7,9 @@ permalink: /teaching/unizar2020/
 Te damos la bienvenida a la página web del curso *Fundamentos del software:
 introducción a la programación verificada*.
 
+Actualmente, la celebración del curso está prevista entre 13 y 17 de julio de
+2020, de manera tanto presencial en Zaragoza como remota.
+
 Puedes consultar la descripción del curso en
 [la web de los cursos de verano](https://cursosextraordinarios.unizar.es/curso/2020/fundamentos-del-software-introduccion-la-programacion-verificada) y preinscribirte hasta el 31 de mayo rellenando
 [el formulario de inscripción](https://cursosextraordinarios.unizar.es/formulario-inscripcion).
@@ -18,15 +21,20 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
- * **27 de abril de 2020**
+ * **14 de mayo de 2020**
 
-   Publicación de los cursos de verano y apertura del periodo de preinscripción
-   y solicitud de información.
+   Aprobación de la opción de participación remota por la Universidad de
+   Zaragoza.
 
  * **3 de mayo de 2020**
 
    Aprobación de patrocinio por parte de CPIIAR y AI2Aragón con tarifas
    reducidas para sus miembros.
+
+ * **27 de abril de 2020**
+
+   Publicación de los cursos de verano y apertura del periodo de preinscripción
+   y solicitud de información.
 
 ## Presentación
 
@@ -59,7 +67,7 @@ puesta en práctica interactiva, complementada por ejercicios con los que los
 participantes desarrollarán gradualmente su dominio de las herramientas de
 desarrollo, que culminarán en la construcción de un pequeño sistema verificado.
 
-## Requisitos
+## Requisitos e inscripción
 
 El curso es accesible a cualquier persona con conocimientos de lenguajes de
 programación y fundamentos matemáticos comparables a los de un segundo curso de
@@ -77,6 +85,9 @@ La Universidad de Zaragoza evaluará las posibilidades de celebración del curso
 lugares y fechas en función del número de inscritos en la primera semana de
 junio y las condiciones sanitarias. Por ello, animamos a los interesados a
 completar la solicitud durante el mes de mayo.
+
+La celebración del curso está prevista en un formato mixto que combine
+participación remota y presencial, en caso de que esta última sea posible.
 
 ## Programa
 
