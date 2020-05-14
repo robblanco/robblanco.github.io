@@ -23,6 +23,11 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
    Publicación de los cursos de verano y apertura del periodo de preinscripción
    y solicitud de información.
 
+ * **3 de mayo de 2020**
+
+   Aprobación de patrocinio por parte de CPIIAR y AI2Aragón con tarifas
+   reducidas para sus miembros.
+
 ## Presentación
 
 ¿Es posible construir sistemas informáticos libres de errores? Lejos de ser una
@@ -159,6 +164,9 @@ propiedades de sistemas como rendimiento, seguridad y *dependability*.
 
 El
 [Colegio Profesional de Ingenieros en Informática de Aragón](https://cpiiaragon.es/)
-subvencionará la participación en el curso a sus colegiados reembolsándoles
+y la
+[Asociación de Ingenieros en Informática de Aragón](https://ai2aragon.es/)
+subvencionarán la participación en el curso a sus miembros reembolsándoles
 la diferencia entre la tarifa general y la tarifa reducida, de forma que puedan
-disfrutar de esta última.
+disfrutar de esta última incluso si no satisfacen los criterios propios de la
+Universidad de Zaragoza.
