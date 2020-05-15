@@ -149,6 +149,8 @@ Disponibles próximamente.
 
 Disponible próximamente.
 
+El curso se celebrará tambien de manera no presencial.
+
 ## Espacios participativos
 
 Disponibles próximamente.
