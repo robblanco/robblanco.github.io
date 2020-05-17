@@ -18,6 +18,21 @@ areas of expertise; as well to mentor people interested in these areas.
 This page lists some courses that I have been fortunate to teach and plan to
 teach in the near future, as well as related activities.
 
+## 2020-2021
+
+I am planning to teach a series of short courses tailored to introduce both
+students (advanced undergrads and up) and professionals to the practical use of
+formal methods in Spain, where these topics are still greatly understudied
+vis-à-vis other countries. (These are currently on hold due to the ongoing
+coronavirus pandemic).
+
+* Introduction to verified programming.
+  An abridgment of the verification and security course with a focus on the
+  former.
+
+* Advanced functional programming.
+  Another course in preparation.
+
 ### 2019-2020
 
 * [Software engineering (CS3053)](https://catalog.aup.edu/course/cs3053/spring-2020).
@@ -29,19 +44,7 @@ teach in the near future, as well as related activities.
 
 * [Software foundations: introduction to verified programming](/teaching/unizar2020/).
   Upcoming course to be taught as part of the interdisciplinary summer school of
-  the University of Zaragoza.
-
-I am planning to teach a series of short courses tailored to introduce both
-students (advanced undergrads and up) and professionals to the practical use of
-formal methods in Spain, where these topics are still greatly understudied
-vis-à-vis other countries. (These are currently on hold due to the 2019-20
-coronavirus pandemic).
-
-* Introduction to verified programming.
-  Upcoming course based on Software Foundations.
-
-* Advanced functional programming.
-  Another course in preparation.
+  the University of Zaragoza, based on *Software foundations*.
 
 ### 2018-2019
 
