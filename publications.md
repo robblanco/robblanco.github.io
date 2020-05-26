@@ -8,7 +8,7 @@ permalink: /publications/
 
 * *FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
   (system description)*, by Roberto Blanco, Matteo Manighetti and Dale Miller.
-  Submitted.
+  Accepted at the Coq Workshop 2020.
 
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
