@@ -159,9 +159,9 @@ Disponibles próximamente.
 
 [Roberto Blanco](https://robblanco.github.io/) es ingeniero en informática por
 la Universidad de Zaragoza y doctor en informática por la École
-polytechnique/Université Paris-Saclay, e investigador en la sede de París de
-Inria, centro de desarrollo del sistema Coq, y próximamente en el Instituto Max
-Planck para la Ciberseguridad y la Privacidad. Su trabajo gira en torno al
+polytechnique/Université Paris-Saclay, e investigador en el Instituto Max
+Planck para la Ciberseguridad y la Privacidad, y antes en la sede de París de
+Inria, centro de desarrollo del sistema Coq. Su trabajo gira en torno al
 desarrollo de métodos formales y su aplicación a la verificación de sistemas
 informáticos y de su seguridad, concentrado en la actualidad en la compilación
 segura.
