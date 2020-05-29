@@ -2,10 +2,11 @@
 layout: default
 ---
 
-Currently, I am a Starting Researcher
+Currently, I am a postdoctoral researcher
+at the [Max Planck Institute for Cyber Security and Privacy](https://www.mpi-sp.org/)
+(previously a Starting Researcher
 in the [Prosecco](http://prosecco.gforge.inria.fr/) team
-at [Inria Paris](https://www.inria.fr/en/centre/paris)
-(soon relocating to the [Max Planck Institute for Cyber Security and Privacy](https://www.mpi-sp.org/)).
+at [Inria Paris](https://www.inria.fr/en/centre/paris)).
 I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
 in the ERC [SECOMP](https://secure-compilation.github.io/) project
 and the DARPA [SSITH](https://www.darpa.mil/news-events/2017-04-10) HOPE project.
