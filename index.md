@@ -3,6 +3,7 @@ layout: default
 ---
 
 Currently, I am a postdoctoral researcher
+in the Formally Verified Security group
 at the [Max Planck Institute for Cyber Security and Privacy](https://www.mpi-sp.org/)
 (previously a Starting Researcher
 in the [Prosecco](http://prosecco.gforge.inria.fr/) team
