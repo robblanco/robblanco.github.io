@@ -10,7 +10,7 @@ in the [Prosecco](http://prosecco.gforge.inria.fr/) team
 at [Inria Paris](https://www.inria.fr/en/centre/paris)).
 I work with [Cătălin Hriţcu](http://prosecco.gforge.inria.fr/personal/hritcu/)
 in the ERC [SECOMP](https://secure-compilation.github.io/) project
-and the DARPA [SSITH](https://www.darpa.mil/news-events/2017-04-10) HOPE project.
+(and previously in the DARPA [SSITH](https://www.darpa.mil/news-events/2017-04-10) HOPE project).
 
 My research interests are centered around the development and application of
 formal methods to solve computer security problems, developed along both axes:
