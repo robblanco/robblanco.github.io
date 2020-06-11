@@ -21,6 +21,11 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
+ * **10 de junio de 2020**
+
+   Confirmación definitiva de realización del curso por parte de la Universidad
+   de Zaragoza. Comienzo del periodo de matrícula.
+
  * **14 de mayo de 2020**
 
    Aprobación de la opción de participación remota por la Universidad de
