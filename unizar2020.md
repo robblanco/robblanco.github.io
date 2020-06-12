@@ -26,6 +26,11 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
    Confirmación definitiva de realización del curso por parte de la Universidad
    de Zaragoza. Comienzo del periodo de matrícula.
 
+ * **31 de mayo de 2020**
+
+   Cierre de el periodo de preinscripción. Se siguen aceptando nuevas
+   inscripciones.
+
  * **14 de mayo de 2020**
 
    Aprobación de la opción de participación remota por la Universidad de
