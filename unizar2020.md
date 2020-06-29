@@ -163,7 +163,8 @@ El curso se celebrará también de manera no presencial.
 
 ## Espacios participativos
 
-Disponibles próximamente.
+El [chat Zulip del curso](https://funsoft2020.zulipchat.com/) es el canal de
+comunicación principal entre todos los participantes.
 
 ## Equipo docente
 
