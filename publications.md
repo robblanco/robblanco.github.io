@@ -10,6 +10,16 @@ permalink: /publications/
   (system description)*, by Roberto Blanco, Matteo Manighetti and Dale Miller.
   Accepted at the Coq Workshop 2020.
 
+* *Linking a lambda Prolog proof checker to the Coq kernel: an extended
+  abstract*, by Roberto Blanco, Matteo Manighetti and Dale Miller. Presented
+  at the **International Workshop on Logical Frameworks and Meta-Languages:
+  Theory and Practice** (LFMTP 2020). Online, 30 June 2020.
+
+* *On the Proof Theory of Property-Based Testing of Coinductive Specifications,
+  or: PBT to Infinity and beyond*, by Roberto Blanco, Dale Miller and Alberto
+  Momigliano. Presented at the **International Workshop on Logical Frameworks
+  and Meta-Languages: Theory and Practice** (LFMTP 2020). Online, 29 June 2020.
+
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
   Ciobâcă, Adrien Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric
