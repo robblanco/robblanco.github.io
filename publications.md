@@ -8,7 +8,7 @@ permalink: /publications/
 
 * *FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
   (system description)*, by Roberto Blanco, Matteo Manighetti and Dale Miller.
-  Accepted at the Coq Workshop 2020.
+  Presented at the **Coq Workshop 2020**. Online, 5 July 2020.
 
 * *Linking a lambda Prolog proof checker to the Coq kernel: an extended
   abstract*, by Roberto Blanco, Matteo Manighetti and Dale Miller. Presented
