@@ -21,7 +21,7 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
- * **6 de julio de 2020**
+ * **7 de julio de 2020**
 
    Celebración del curso postpuesta a septiembre.
 
