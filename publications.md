@@ -34,8 +34,8 @@ permalink: /publications/
   https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf#page=88),
   by Roberto Blanco, Dale Miller and Alberto Momigliano. In: Ugo de' Liguoro and
   Stefano Berardi (eds.), **Proceedings of the 26th International Conference on
-  Types for Proofs and Programs** (TYPES 2020). Turin, Italy, 2-5 March 2020
-  (event cancelled due to the 2019-20 coronavirus pandemic).
+  Types for Proofs and Programs** (TYPES 2020), Turin, Italy, 2-5 March 2020
+  (meeting not held due to the COVID-19 pandemic).
 
 * [*Property-based testing via proof reconstruction*](
   https://hal.inria.fr/hal-02368931), by Roberto Blanco, Dale Miller and Alberto
