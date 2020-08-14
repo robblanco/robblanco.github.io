@@ -4,7 +4,7 @@ layout: default
 
 Currently, I am a postdoctoral researcher
 in the Formally Verified Security group (FOVSEC)
-at the [Max Planck Institute for Cyber Security and Privacy](https://csp.mpg.de/)
+at the [Max Planck Institute for Security and Privacy](https://csp.mpg.de/)
 (previously a Starting Researcher
 in the [Prosecco](http://prosecco.gforge.inria.fr/) team
 at [Inria Paris](https://www.inria.fr/en/centre/paris)).
