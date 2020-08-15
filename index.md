@@ -31,6 +31,7 @@ in the [Parsifal](https://team.inria.fr/parsifal/) team
 (now [Partout](https://team.inria.fr/partout/))
 at the [LIX laboratory](https://www.lix.polytechnique.fr/) at
 [École polytechnique](https://www.polytechnique.edu/)
+in [Université Paris-Saclay](https://www.universite-paris-saclay.fr/),
 and [Inria Saclay - Île de France](https://www.inria.fr/en/centre/saclay).
 I was advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/)
 working in the ERC [ProofCert](https://team.inria.fr/parsifal/proofcert/) project.
