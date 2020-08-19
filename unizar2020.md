@@ -8,7 +8,7 @@ Te damos la bienvenida a la página web del curso *Fundamentos del software:
 introducción a la programación verificada*.
 
 Actualmente, la celebración del curso está prevista del 7 al 11 de septiembre
-de 2020, de manera tanto presencial en Zaragoza como remota.
+de 2020 de manera remota.
 
 Puedes consultar la descripción del curso en
 [la web de los cursos de verano](https://cursosextraordinarios.unizar.es/curso/2020/fundamentos-del-software-introduccion-la-programacion-verificada) y preinscribirte hasta el 31 de mayo rellenando
