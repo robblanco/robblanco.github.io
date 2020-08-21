@@ -105,7 +105,7 @@ participación remota y presencial, en caso de que esta última sea posible.
 
 ## Programa
 
-13 de julio
+7 de septiembre
 
  * 09.00-10.30: Programas funcionales. Inducción estructural. Estructuras de datos: listas
 
@@ -115,7 +115,7 @@ participación remota y presencial, en caso de que esta última sea posible.
 
  * 16.00-17.30: Introducción a la programación segura: Motivación y estándares
 
-14 de julio
+8 de septiembre
 
  * 09.00-10.30: Proposiciones inductivas (1ª parte)
 
@@ -125,7 +125,7 @@ participación remota y presencial, en caso de que esta última sea posible.
 
  * 16.00-17.30: Programación segura: Lenguajes de programación. Lenguaje C
 
-15 de julio
+9 de septiembre
 
  * 09.00-10.30: Semántica de los lenguajes imperativos (2ª parte)
 
@@ -135,7 +135,7 @@ participación remota y presencial, en caso de que esta última sea posible.
 
  * 16.00-17.30: Programación segura: Cadenas. Enteros
 
-16 de julio
+10 de septiembre
 
  * 09.00-10.30: Verificación funcional. Ordenación
 
@@ -145,7 +145,7 @@ participación remota y presencial, en caso de que esta última sea posible.
 
  * 16.00-17.30: Programación segura: Salidas con formato. Condiciones de carrera
 
-17 de julio
+11 de septiembre
 
  * 09.00-10.30: Verificación imperativa. Lógica de Hoare (1ª parte)
 
