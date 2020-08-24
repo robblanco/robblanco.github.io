@@ -161,9 +161,7 @@ Disponibles próximamente.
 
 ## Lugar de celebración
 
-Disponible próximamente.
-
-El curso se celebrará también de manera no presencial.
+El curso se celebrará exclusivamente de manera no presencial.
 
 ## Espacios participativos
 
