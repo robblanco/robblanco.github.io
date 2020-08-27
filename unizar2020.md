@@ -157,7 +157,8 @@ participación remota y presencial, en caso de que esta última sea posible.
 
 ## Materiales
 
-Disponibles próximamente.
+Disponibles próximamente en el
+[repositorio del curso](https://github.com/robblanco/unizar2020/).
 
 ## Lugar de celebración
 
