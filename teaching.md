@@ -43,7 +43,7 @@ coronavirus pandemic).
   out remotely in a geographically distributed clasroom and teams of students.
 
 * [Software foundations: introduction to verified programming](/teaching/unizar2020/).
-  Upcoming course to be taught as part of the interdisciplinary summer school of
+  Course being taught as part of the interdisciplinary summer school of
   the University of Zaragoza, based on *Software foundations*.
 
 ### 2018-2019
