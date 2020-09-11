@@ -21,6 +21,10 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
+ * **11 de septiembre de 2020**
+
+   Clausura del curso.
+
  * **7 de septiembre de 2020**
 
    Comienzo del curso.
