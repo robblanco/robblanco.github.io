@@ -48,7 +48,7 @@ coronavirus pandemic).
 
 ### 2018-2019
 
-* [Writing and verifying functional programs in Coq](https://prosecco.gforge.inria.fr/personal/hritcu/teaching/lyon2019/)
+* [Writing and verifying functional programs in Coq](https://prosecco.gforge.inria.fr/personal/hritcu/teaching/lyon2019/).
   I taught the practical sessions for one of the groups of the
   [Mathinfoly](http://www.mathinfoly.org/) summer school at INSA in Lyon, and
   cosupervised all other student activities.
@@ -59,7 +59,7 @@ During this and the previous two school years I taught laboratory classes in the
 computer science track of the engineering cycle at École polytechnique,
 typically in weekly two-hour sessions for two separate groups.
 
-* [Computational logic (INF551)](https://moodle.polytechnique.fr/course/info.php?name=INF551-2017)
+* [Computational logic (INF551)](https://moodle.polytechnique.fr/course/info.php?name=INF551-2017).
   Artificial intelligence in mathematical reasoning.
 
 ### 2016-2017
