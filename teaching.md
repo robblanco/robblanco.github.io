@@ -35,16 +35,20 @@ coronavirus pandemic).
 
 ### 2019-2020
 
+* [Software foundations: introduction to verified programming](/teaching/unizar2020/).
+  I proposed, directed and taught, together with Ricardo Rodríguez, a 50-hour
+  summer school on verified and secure programming, as part of the 93th edition
+  of the larger summer university of the University of Zaragoza. I was in
+  charge of the verification part, based on *Software foundations* and which
+  comprised three fourths of the lectures. Due to the coronavirus pandemic, the
+  course took place remotely.
+
 * [Software engineering (CS3053)](https://catalog.aup.edu/course/cs3053/spring-2020).
   I was a lecturer at the American University of Paris, teaching a
   full course based on the excellent *Engineering Software as a Service*. The
   second half of this class, including the group projects in which students
   built web applications applying modern technologies methodologies, was carried
   out remotely in a geographically distributed clasroom and teams of students.
-
-* [Software foundations: introduction to verified programming](/teaching/unizar2020/).
-  Course being taught as part of the interdisciplinary summer school of
-  the University of Zaragoza, based on *Software foundations*.
 
 ### 2018-2019
 
