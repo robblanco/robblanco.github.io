@@ -19,6 +19,10 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
+ * **27 de septiembre de 2020**
+
+   Fecha límite de entrega de los trabajos de curso.
+
  * **11 de septiembre de 2020**
 
    Clausura del curso.
