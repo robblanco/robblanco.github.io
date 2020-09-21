@@ -18,12 +18,20 @@ themselves be verified and impart indirectly, by way of their specification,
 certain guarantees to the programs they manipulate, such as correctness of
 translation or useful security properties.
 
-* I have given plenty of thought to the proof assistant
-  [Abella](http://abella-prover.org/), both in relatively self-contained but
-  useful features and technical improvements, and in large, ongoing
-  modifications to the kernel of the system. More broadly, I am working on the
-  design of elegant and programmable tactical languages for proof automation,
-  extending their applicability to the Coq proof assistant.
+* Secure compilers protect compiled programs and the high-level invariants of
+  their source languages against adversarial low-level code that may attempt to
+  subvert those guarantees.  We seek to develop such compilers and proof
+  techniques for realistic languages, focusing in particular in
+  compartmentalization techniques for systems languages such as C, and
+  efficient enforcement based on hardware mechanisms, in particular micropolicy
+  machines.
+
+* I have given plenty of thought to the internals of proof assistants, in
+  particular to [Abella](http://abella-prover.org/), both in relatively
+  self-contained but useful features and technical improvements, and in large,
+  ongoing modifications to the kernel of the system. More broadly, I work on
+  the design of elegant and programmable tactical languages for proof
+  automation, extending their applicability to the Coq proof assistant.
 
 * Many smaller projects are directly related to the declared goal of ProofCert
   of universal production, communication (i.e., reuse) and checking (i.e.,
