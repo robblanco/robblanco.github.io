@@ -40,7 +40,8 @@ coronavirus pandemic).
   summer school on verified and secure programming, as part of the 93th edition
   of the larger summer university of the University of Zaragoza. I was in
   charge of the verification part, based on *Software foundations* and which
-  comprised three fourths of the lectures. Due to the coronavirus pandemic, the
+  comprised three fourths of the lectures, as well as tailored projects for
+  students taking the class for credit. Due to the coronavirus pandemic, the
   course took place remotely.
 
 * [Software engineering (CS3053)](https://catalog.aup.edu/course/cs3053/spring-2020).
