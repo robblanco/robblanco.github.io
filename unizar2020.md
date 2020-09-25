@@ -19,9 +19,14 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
- * **27 de septiembre de 2020**
+ * **25 de septiembre de 2020**
 
-   Fecha límite de entrega de los trabajos de curso.
+   Extensión de la fecha de entrega de los trabajos de curso hasta el 30 de
+   septiembre.
+
+ * **14 de septiembre de 2020**
+
+   Fijada fecha límite de entrega de los trabajos de curso el 27 de septiembre.
 
  * **11 de septiembre de 2020**
 
