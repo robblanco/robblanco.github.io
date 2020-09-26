@@ -170,6 +170,18 @@ participación remota y presencial, en caso de que esta última sea posible.
 
  * 16.00-17.30: Laboratorio de programación segura
 
+## Evaluación
+
+La organización de los cursos de verano expedirá un diploma de participación a
+todos aquellos que asistan al menos al 85% de las sesiones del curso, que
+totalizan 30 horas lectivas sumadas a 10 horas de trabajo personal en los
+ejercicios asignados.
+
+La superación formal del curso conlleva la obtención de 1,5 créditos ECTS. Los
+participantes interesados en esta modalidad de evaluación deberán coordinar con
+los profesores la realización y exposición de un trabajo de profundicación
+sobre alguna de las partes del curso de unas 10 horas adicionales.
+
 ## Materiales
 
 Disponibles en el
