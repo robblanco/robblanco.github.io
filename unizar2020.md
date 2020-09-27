@@ -36,6 +36,10 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
    Comienzo del curso.
 
+ * **14 de julio de 2020**
+
+   Confirmación de nuevas fechas de celebración del 7 al 11 de septiembre.
+
  * **7 de julio de 2020**
 
    Celebración del curso postpuesta a septiembre.
