@@ -19,6 +19,10 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
 ## Noticias
 
+ * **30 de septiembre de 2020**
+
+   Finalización de los trabajos de curso.
+
  * **25 de septiembre de 2020**
 
    Extensión de la fecha de entrega de los trabajos de curso hasta el 30 de
