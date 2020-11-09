@@ -33,6 +33,9 @@ coronavirus pandemic).
 * Advanced functional programming.
   Another course in preparation.
 
+In addition to these, we will propose a new and revised edition of the verified
+and secure programming course.
+
 ### 2019-2020
 
 * [Software foundations: introduction to verified programming](/teaching/unizar2020/).
