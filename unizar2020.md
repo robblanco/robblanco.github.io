@@ -21,7 +21,7 @@ Ante cualquier pregunta, no dudes en contactar con los directores del curso.
 
  * **30 de septiembre de 2020**
 
-   Finalización de los trabajos de curso.
+   Finalización de los trabajos de curso. ¡Gracias por vuestra participación!
 
  * **25 de septiembre de 2020**
 
