@@ -45,7 +45,8 @@ and secure programming course.
   charge of the verification part, based on *Software foundations* and which
   comprised three fourths of the lectures, as well as tailored projects for
   students taking the class for credit. Due to the coronavirus pandemic, the
-  course took place remotely.
+  course took place remotely. The class was extremely well received and obtained
+  the second highest evaluation score in the entire summer university.
 
 * [Software engineering (CS3053)](https://catalog.aup.edu/course/cs3053/spring-2020).
   I was a lecturer at the American University of Paris, teaching a
