@@ -41,12 +41,12 @@ and secure programming course.
 * [Software foundations: introduction to verified programming](/teaching/unizar2020/).
   I proposed, directed and taught, together with Ricardo Rodríguez, a 50-hour
   summer school on verified and secure programming, as part of the 93th edition
-  of the larger summer university of the University of Zaragoza. I was in
-  charge of the verification part, based on *Software foundations* and which
-  comprised three fourths of the lectures, as well as tailored projects for
-  students taking the class for credit. Due to the coronavirus pandemic, the
-  course took place remotely. The class was extremely well received and obtained
-  the second highest evaluation score in the entire summer university.
+  of the summer university of the University of Zaragoza. I was in charge of
+  the verification part, based on *Software foundations* and which comprised
+  three fourths of the lectures, as well as tailored projects for students
+  taking the class for credit. Due to the coronavirus pandemic, the course took
+  place remotely. The class was extremely well received, obtaining the top 2nd
+  evaluation among the 75 courses in the summer university.
 
 * [Software engineering (CS3053)](https://catalog.aup.edu/course/cs3053/spring-2020).
   I was a lecturer at the American University of Paris, teaching a
