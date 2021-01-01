@@ -20,21 +20,21 @@ teach in the near future, as well as related activities.
 
 ## 2020-2021
 
-I am planning to teach a series of short courses tailored to introduce both
-students (advanced undergrads and up) and professionals to the practical use of
-formal methods in Spain, where these topics are still greatly understudied
-vis-à-vis other countries. (These are currently on hold due to the ongoing
-coronavirus pandemic).
+* Software foundations: introduction to verified and secure programming.
+  We have proposed a new and revised edition of last year's course.
+
+I am also planning to teach a series of short courses tailored to introduce
+both students (advanced undergrads and up) and professionals to the practical
+use of formal methods in Spain, where these topics are still greatly
+understudied vis-à-vis other countries. (These are currently on hold due to the
+ongoing coronavirus pandemic).
 
 * Introduction to verified programming.
   An abridgment of the verification and security course with a focus on the
   former.
 
-* Advanced functional programming.
+* Introduction to functional programming.
   Another course in preparation.
-
-In addition to these, we will propose a new and revised edition of the verified
-and secure programming course.
 
 ### 2019-2020
 
