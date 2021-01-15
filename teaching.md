@@ -30,8 +30,7 @@ understudied vis-à-vis other countries.
 
 * Introduction to verified programming.
   A slight abridgment of the verification part of our introductory course to
-  verified (and secure) programming. Initially scheduled to take place between
-  9-10 and 16-17 February 2021.
+  verified programming. Scheduled for 9-10 and 16-17 February 2021.
 
 * Introduction to functional programming.
   Another course in preparation.
