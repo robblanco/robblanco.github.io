@@ -17,3 +17,6 @@ This year I will be part of the LFMTP'21 program committee.
 I am one of the founding members and part of the governing board of
 [CPIIAR](https://cpiiaragon.es/), one of the regional statutory corporations
 that oversee the development of computer engineering as a profession in Spain.
+
+Related to this initiative, I am also part of a working group within
+[CCII](https://ccii.es/), the national council of which CPIIAR is part.
