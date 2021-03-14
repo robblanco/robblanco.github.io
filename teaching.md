@@ -21,7 +21,7 @@ teach in the near future, as well as related activities.
 ## 2020-2021
 
 * Software foundations: introduction to verified and secure programming.
-  We have proposed a new and revised edition of last year's course.
+  The second edition of our summer school will take place in July.
 
 I am also planning to teach a series of short courses tailored to introduce
 both students (advanced undergrads and up) and professionals to the practical
