@@ -20,7 +20,7 @@ teach in the near future, as well as related activities.
 
 ## 2020-2021
 
-* Software foundations: introduction to verified and secure programming.
+* [Software foundations: introduction to verified and secure programming](/teaching/unizar2021/).
   The second edition of our summer school will take place in July.
 
 I am also planning to teach a series of short courses tailored to introduce
