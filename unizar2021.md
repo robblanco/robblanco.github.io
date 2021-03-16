@@ -36,11 +36,14 @@ misma si y solo si obedece dicha especificación. A lo largo del curso:
     construcción en lenguajes de programación estándar, tanto funcionales como
     imperativos.
 
- 3. Ilustraremos la utilidad práctica de los contenidos del curso a través de
-    casos de estudio de sistemas reales (sistemas operativos, compiladores,
-    bases de datos, etc.) creados siguiendo esta metodología. Además,
-    estudiaremos los principales aspectos prácticos de programación segura a
-    considerar en el desarrollo de cualquier sistema informático.
+ 3. Estudiaremos los principales aspectos prácticos de programación segura a
+    considerar en el desarrollo de cualquier sistema informático, así como las
+    especificaciones que reflejan sus requisitos de seguridad.
+
+A lo largo del curso, ilustraremos la utilidad práctica de sus contenidos por
+medio de casos de estudio de sistemas reales (sistemas operativos,
+compiladores, bases de datos, etc.) creados siguiendo esta metodología, así
+como las herramientas utilizadas para ello.
 
 Las sesiones de trabajo combinan la exposición aplicada de conceptos con su
 puesta en práctica interactiva, complementada por ejercicios con los que los
