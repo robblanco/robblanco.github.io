@@ -7,6 +7,8 @@ permalink: /teaching/unizar2021/
 Te damos la bienvenida a la página web del curso *Fundamentos del software:
 introducción a la programación verificada y segura*.
 
+El curso se celebrará en julio de 2021.
+
 * auto-gen TOC:
 {:toc}
 
