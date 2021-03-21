@@ -77,7 +77,7 @@ typically in weekly two-hour sessions for two separate groups.
 * [Parallel programming and big data (INF442)](https://moodle.polytechnique.fr/course/info.php?name=INF442-2016).
   For this class I also proposed and supervised student projects to analyze
   real-time data from the public transportation system of the Paris metropolitan
-  area.
+  area. This project continues to be offered every year as part of the class.
 
 ### 2015-2016
 
