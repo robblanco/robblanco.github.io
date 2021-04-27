@@ -12,6 +12,8 @@ its service to society.
 
 This year I will be part of the LFMTP'21 program committee.
 
+I will also be part of the CSF 2022 program committee.
+
 ## Professional associations
 
 I am one of the founding members and part of the governing board of
