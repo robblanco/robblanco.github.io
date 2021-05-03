@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## Working papers
 
+* *An extended account of trace-relating compiler correctness and secure
+  compilation*, by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Adrien
+  Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and
+  Jérémy Thibault. To appear.
+
 * [*FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
   (system description)*](
   https://coq-workshop.gitlab.io/2020/abstracts/Coq2020_01-02-fpc-coq.pdf), by
