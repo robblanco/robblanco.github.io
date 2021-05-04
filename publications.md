@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Working papers
 
+* [*Security properties for stack safety*](https://arxiv.org/abs/2105.00417),
+  by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
+  Pierce and Andrew Tolmach. Submitted.
+
 * *An extended account of trace-relating compiler correctness and secure
   compilation*, by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Adrien
   Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and
