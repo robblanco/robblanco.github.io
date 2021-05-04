@@ -10,9 +10,13 @@ its service to society.
 
 ## Scientific community service
 
-This year I will be part of the LFMTP'21 program committee.
+This year I will be part of the following program committees:
 
-I will also be part of the CSF 2022 program committee.
+* LFMTP'21
+
+* FCS'21
+
+* CSF 2022
 
 ## Professional associations
 
