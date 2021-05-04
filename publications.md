@@ -6,8 +6,9 @@ permalink: /publications/
 
 ## Working papers
 
-* *Security properties for stack safety*.
-  Submitted.
+* [*Security properties for stack safety*](https://arxiv.org/abs/2105.00417),
+  by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
+  Pierce and Andrew Tolmach. Submitted.
 
 * [*FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
   (system description)*](
