@@ -18,6 +18,10 @@ This year I will be part of the following program committees:
 
 * CSF 2022
 
+Previously, I have been part of the following program committees:
+
+* PxTP 2019
+
 ## Professional associations
 
 I am one of the founding members and part of the governing board of
