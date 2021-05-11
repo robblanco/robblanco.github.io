@@ -18,6 +18,10 @@ This year I will be part of the following program committees:
 
 * CSF 2022
 
+I will also be part of the following artifact evaluation committees:
+
+* ICFP 2021
+
 Previously, I have been part of the following program committees:
 
 * PxTP 2019
