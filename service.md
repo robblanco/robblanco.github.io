@@ -16,11 +16,9 @@ This year I will be part of the following program committees:
 
 * FCS'21
 
+* ICFP 2021 Artifact Evaluation
+
 * CSF 2022
-
-I will also be part of the following artifact evaluation committees:
-
-* ICFP 2021
 
 Previously, I have been part of the following program committees:
 
