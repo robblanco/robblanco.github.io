@@ -18,6 +18,10 @@ El curso se celebrará en julio de 2021.
 
    Confirmación de celebración del curso por la Universidad de Zaragoza.
 
+ * **17 de mayo de 2021**
+
+   Apertura del plazo de inscripción.
+
 ## Presentación
 
 ¿Es posible construir sistemas informáticos libres de errores? Lejos de ser una
