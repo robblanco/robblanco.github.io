@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Working papers
 
+* *Security properties for stack safety*, by Sean Anderson, Leonidas
+  Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
+  Submitted.
+
 * [*Security properties for stack safety*](https://arxiv.org/abs/2105.00417),
   by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
   Pierce and Andrew Tolmach. Submitted.
