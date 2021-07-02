@@ -6,10 +6,6 @@ permalink: /publications/
 
 ## Working papers
 
-* *Security properties for stack safety*, by Sean Anderson, Leonidas
-  Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
-  Submitted.
-
 * [*Security properties for stack safety*](https://arxiv.org/abs/2105.00417),
   by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
   Pierce and Andrew Tolmach. Submitted.
@@ -18,6 +14,13 @@ permalink: /publications/
   compilation*, by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Adrien
   Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and
   Jérémy Thibault. To appear.
+
+## Recent publications
+
+* *Security properties for stack safety*, by Sean Anderson, Leonidas
+  Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
+  In **Workshop on Foundations of Computer Security 2021** (FCS 2021). Online,
+  21 June 2021.
 
 * [*FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
   (system description)*](
@@ -38,8 +41,6 @@ permalink: /publications/
   Roberto Blanco, Dale Miller and Alberto Momigliano. Presented at the
   **International Workshop on Logical Frameworks and Meta-Languages: Theory and
   Practice** (LFMTP 2020). Online, 29 June 2020.
-
-## Recent publications
 
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
