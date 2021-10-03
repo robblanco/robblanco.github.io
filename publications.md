@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Working papers
 
+* *SecurePtrs: proving secure compilation with data-flow back-translation and
+  turn-taking simulation*, by Akram El-Korashy, Roberto Blanco, Jérémy Thibault,
+  Adrien Durier, Cătălin Hriţcu and Deepak Garg. Submitted.
+
 * [*Security properties for stack safety*](https://arxiv.org/abs/2105.00417),
   by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
   Pierce and Andrew Tolmach. Submitted.
