@@ -7,6 +7,11 @@ permalink: /publications/
 ## Working papers
 
 * *SecurePtrs: proving secure compilation with data-flow back-translation and
+  turn-taking simulation* (extended abstract), by Akram El-Korashy, Roberto
+  Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and Deepak Garg.
+  Submitted.
+
+* *SecurePtrs: proving secure compilation with data-flow back-translation and
   turn-taking simulation*, by Akram El-Korashy, Roberto Blanco, Jérémy Thibault,
   Adrien Durier, Cătălin Hriţcu and Deepak Garg. Submitted.
 
