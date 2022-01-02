@@ -19,12 +19,13 @@ permalink: /publications/
   by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
   Pierce and Andrew Tolmach. Submitted.
 
+## Recent publications
+
 * *An extended account of trace-relating compiler correctness and secure
   compilation*, by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Adrien
   Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and
-  Jérémy Thibault. To appear.
-
-## Recent publications
+  Jérémy Thibault. **ACM Transactions on Programming Languages and Systems**,
+  vol. 43, no. 4, pp. 1-48, December 2021.
 
 * *Security properties for stack safety*, by Sean Anderson, Leonidas
   Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
