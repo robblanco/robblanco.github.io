@@ -22,6 +22,8 @@ This year I will be part of the following program committees:
 
 * PriSC 2022
 
+* FMBC 2022
+
 Previously, I have been part of the following program committees:
 
 * PxTP 2019
