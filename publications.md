@@ -7,11 +7,6 @@ permalink: /publications/
 ## Working papers
 
 * *SecurePtrs: proving secure compilation with data-flow back-translation and
-  turn-taking simulation* (extended abstract), by Akram El-Korashy, Roberto
-  Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and Deepak Garg.
-  Submitted.
-
-* *SecurePtrs: proving secure compilation with data-flow back-translation and
   turn-taking simulation*, by Akram El-Korashy, Roberto Blanco, Jérémy Thibault,
   Adrien Durier, Cătălin Hriţcu and Deepak Garg. Submitted.
 
@@ -20,6 +15,12 @@ permalink: /publications/
   Pierce and Andrew Tolmach. Submitted.
 
 ## Recent publications
+
+* *SecurePtrs: proving secure compilation with data-flow back-translation and
+  turn-taking simulation* (extended abstract), by Akram El-Korashy, Roberto
+  Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and Deepak Garg. In
+  **6th Workshop on Principles of Secure Compilation** (PriSC 2022),
+  Philadelphia, PA, 22 January 2022.
 
 * *An extended account of trace-relating compiler correctness and secure
   compilation*, by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Adrien
