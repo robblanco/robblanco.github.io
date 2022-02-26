@@ -18,6 +18,11 @@ areas of expertise; as well to mentor people interested in these areas.
 This page lists some courses that I have been fortunate to teach and plan to
 teach in the near future, as well as related activities.
 
+## 2021-2022
+
+* [Advanced programming techniques: the functional paradigm](/teaching/unizar2022/).
+  Coming soon!
+
 ## 2020-2021
 
 * [Software foundations: introduction to verified and secure programming](/teaching/unizar2021/).
