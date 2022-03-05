@@ -70,6 +70,12 @@ permalink: /publications/
   Types for Proofs and Programs** (TYPES 2020), Turin, Italy, 2-5 March 2020
   (meeting not held due to the COVID-19 pandemic).
 
+* *Trace-relating compiler correctness and secure compilation* (extended
+  abstract), by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Deepak Garg,
+  Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy Thibault. In **4th
+  Workshop on Principles of Secure Compilation** (PriSC 2020). New Orleans, LA,
+  25 January 2020.
+
 * [*Property-based testing via proof reconstruction*](
   https://hal.inria.fr/hal-02368931), by Roberto Blanco, Dale Miller and Alberto
   Momigliano. In: Ekaterina Komendantskaya (ed.), **Proceedings of the 21st
