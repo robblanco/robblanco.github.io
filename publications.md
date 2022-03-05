@@ -47,7 +47,7 @@ permalink: /publications/
   **International Workshop on Logical Frameworks and Meta-Languages: Theory and
   Practice** (LFMTP 2020). Online, 30 June 2020.
 
-* [*On the proof theory of troperty-based testing of coinductive specifications,
+* [*On the proof theory of property-based testing of coinductive specifications,
   or: PBT to infinity and beyond*](
   https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_5.pdf), by
   Roberto Blanco, Dale Miller and Alberto Momigliano. Presented at the
