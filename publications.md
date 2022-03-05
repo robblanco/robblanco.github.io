@@ -21,7 +21,7 @@ permalink: /publications/
 * *SecurePtrs: proving secure compilation with data-flow back-translation and
   turn-taking simulation* (extended abstract), by Akram El-Korashy, Roberto
   Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and Deepak Garg. In
-  **6th Workshop on Principles of Secure Compilation** (PriSC 2022),
+  **6th Workshop on Principles of Secure Compilation** (PriSC 2022).
   Philadelphia, PA, 22 January 2022.
 
 * *An extended account of trace-relating compiler correctness and secure
@@ -38,37 +38,36 @@ permalink: /publications/
 * [*FPC-Coq: using ELPI to elaborate external proof evidence into Coq proofs
   (system description)*](
   https://coq-workshop.gitlab.io/2020/abstracts/Coq2020_01-02-fpc-coq.pdf), by
-  Roberto Blanco, Matteo Manighetti and Dale Miller. Presented at the **Coq
-  Workshop 2020**. Online, 5 July 2020.
+  Roberto Blanco, Matteo Manighetti and Dale Miller. In **Coq Workshop 2020**.
+  Online, 5 July 2020.
 
 * [*Linking a lambda Prolog proof checker to the Coq kernel: an extended
   abstract*](
   https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_6.pdf), by
-  Roberto Blanco, Matteo Manighetti and Dale Miller. Presented at the
-  **International Workshop on Logical Frameworks and Meta-Languages: Theory and
-  Practice** (LFMTP 2020). Online, 30 June 2020.
+  Roberto Blanco, Matteo Manighetti and Dale Miller. In **International Workshop
+  on Logical Frameworks and Meta-Languages: Theory and Practice** (LFMTP 2020).
+  Online, 30 June 2020.
 
 * [*On the proof theory of property-based testing of coinductive specifications,
   or: PBT to infinity and beyond*](
   https://lfmtp.org/workshops/2020/inc/papers/LFMTP_2020_paper_5.pdf), by
-  Roberto Blanco, Dale Miller and Alberto Momigliano. Presented at the
-  **International Workshop on Logical Frameworks and Meta-Languages: Theory and
-  Practice** (LFMTP 2020). Online, 29 June 2020.
+  Roberto Blanco, Dale Miller and Alberto Momigliano. In **International
+  Workshop on Logical Frameworks and Meta-Languages: Theory and Practice**
+  (LFMTP 2020). Online, 29 June 2020.
 
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
   Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
   Thibault. In: Peter Müller (ed.), **Proceedings of the 29th European Symposium
-  on Programming** (ESOP 2020), pp. 1-28, Dublin, Ireland, 25-30 April 2020
+  on Programming** (ESOP 2020), pp. 1-28. Dublin, Ireland, 25-30 April 2020
   (meeting not held due to the COVID-19 pandemic).
 
 * [*On the proof theory of property-based testing of coinductive specifications,
   or: PBT to infinity and beyond*](
   https://types2020.di.unito.it/abstracts/BookOfAbstractsTYPES2020.pdf#page=88),
-  by Roberto Blanco, Dale Miller and Alberto Momigliano. In: Ugo de' Liguoro and
-  Stefano Berardi (eds.), **Proceedings of the 26th International Conference on
-  Types for Proofs and Programs** (TYPES 2020), Turin, Italy, 2-5 March 2020
-  (meeting not held due to the COVID-19 pandemic).
+  by Roberto Blanco, Dale Miller and Alberto Momigliano. In **26th International
+  Conference on Types for Proofs and Programs** (TYPES 2020). Turin, Italy, 2-5
+  March 2020 (meeting not held due to the COVID-19 pandemic).
 
 * *Trace-relating compiler correctness and secure compilation* (extended
   abstract), by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Deepak Garg,
@@ -80,7 +79,7 @@ permalink: /publications/
   https://hal.inria.fr/hal-02368931), by Roberto Blanco, Dale Miller and Alberto
   Momigliano. In: Ekaterina Komendantskaya (ed.), **Proceedings of the 21st
   International Symposium on Principles and Practice of Declarative
-  Programming** (PPDP 2019), pp. 5:1-5:13, Porto, Portugal, 7 October 2019.
+  Programming** (PPDP 2019), pp. 5:1-5:13. Porto, Portugal, 7 October 2019.
 
 * [*Journey beyond full abstraction: exploring robust property preservation for
   secure compilation*](https://arxiv.org/abs/1807.04603), by Carmine Abate,
