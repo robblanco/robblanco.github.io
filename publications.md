@@ -56,10 +56,10 @@ permalink: /publications/
 
 * [*Trace-relating compiler correctness and secure compilation*](
   https://arxiv.org/abs/1907.05320), by Carmine Abate, Roberto Blanco, Ștefan
-  Ciobâcă, Adrien Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric
-  Tanter and Jérémy Thibault. In: Peter Müller (ed.), **Proceedings of the
-  29th European Symposium on Programming** (ESOP 2020), pp. 1-28, Dublin,
-  Ireland, 25-30 April 2020 (meeting not held due to the COVID-19 pandemic).
+  Ciobâcă, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and Jérémy
+  Thibault. In: Peter Müller (ed.), **Proceedings of the 29th European Symposium
+  on Programming** (ESOP 2020), pp. 1-28, Dublin, Ireland, 25-30 April 2020
+  (meeting not held due to the COVID-19 pandemic).
 
 * [*On the proof theory of property-based testing of coinductive specifications,
   or: PBT to infinity and beyond*](
