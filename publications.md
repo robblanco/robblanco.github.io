@@ -30,7 +30,7 @@ permalink: /publications/
   Jérémy Thibault. **ACM Transactions on Programming Languages and Systems**,
   vol. 43, no. 4, pp. 1-48, December 2021.
 
-* *Security properties for stack safety*, by Sean Anderson, Leonidas
+* *Security properties for stack safety*, by Sean Noble Anderson, Leonidas
   Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
   In **Workshop on Foundations of Computer Security 2021** (FCS 2021). Online,
   21 June 2021.
