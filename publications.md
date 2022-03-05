@@ -11,9 +11,10 @@ permalink: /publications/
   El-Korashy, Roberto Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and
   Deepak Garg. Submitted.
 
-* [*Security properties for stack safety*](https://arxiv.org/abs/2105.00417),
-  by Sean Noble Anderson, Leonidas Lampropoulos, Roberto Blanco, Benjamin C.
-  Pierce and Andrew Tolmach. Submitted.
+* [*Formalizing stack safety as a security property*]
+  (https://arxiv.org/abs/2105.00417)], by Sean Noble Anderson,
+  Leonidas Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
+  Submitted.
 
 ## Recent publications
 
