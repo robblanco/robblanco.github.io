@@ -10,26 +10,25 @@ its service to society.
 
 ## Scientific community service
 
-This year I will be part of the following program committees:
+I am or have been part of the following program committees:
+
+* CSF 2022
+
+* PLDI 2022 Artifact Evaluation
+
+* FMBC 2022
+
+* PriSC 2022
+
+* ICFP 2021 Artifact Evaluation
 
 * LFMTP'21
 
 * FCS'21
 
-* ICFP 2021 Artifact Evaluation
-
-* CSF 2022
-
-* PriSC 2022
-
-* FMBC 2022
-
-* PLDI 2022 Artifact Evaluation
-
-Previously, I have been part of the following program committees:
-
 * PxTP 2019
 
+I have also served as reviewer or sub-reviewer for conferences and journals.
 ## Professional associations
 
 I am one of the founding members and part of the governing board of
