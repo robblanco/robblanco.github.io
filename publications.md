@@ -11,8 +11,8 @@ permalink: /publications/
   El-Korashy, Roberto Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and
   Deepak Garg. Submitted.
 
-* [*Formalizing stack safety as a security property*]
-  (https://arxiv.org/abs/2105.00417)], by Sean Noble Anderson,
+* [*Formalizing stack safety as a security property*](
+  https://arxiv.org/abs/2105.00417)], by Sean Noble Anderson,
   Leonidas Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
   Submitted.
 
