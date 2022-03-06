@@ -24,6 +24,8 @@ This year I will be part of the following program committees:
 
 * FMBC 2022
 
+* PLDI 2022 Artifact Evaluation
+
 Previously, I have been part of the following program committees:
 
 * PxTP 2019
