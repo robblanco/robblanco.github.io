@@ -111,9 +111,9 @@ permalink: /publications/
 
 * [*Property-based testing via proof reconstruction: work-in-progress*](
   https://hal.inria.fr/hal-01646788), by Roberto Blanco, Alberto Momigliano
-  and Dale Miller. In: M. Miculan and F. Rabe (eds.), **Proceedings of the
-  International Workshop on Logical Frameworks and Meta-Languages: Theory and
-  Practice** (LFMTP 2017), Oxford, UK, 8 September 2017.
+  and Dale Miller. In **International Workshop on Logical Frameworks and
+  Meta-Languages: Theory and Practice** (LFMTP 2017), Oxford, UK, 8 September
+  2017.
 
 * [*Translating between implicit and explicit versions of proof*](
   https://hal.inria.fr/hal-01645016), by Roberto Blanco, Zakaria Chihani and
