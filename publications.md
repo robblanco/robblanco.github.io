@@ -12,8 +12,8 @@ permalink: /publications/
   Deepak Garg. Submitted.
 
 * [*Formalizing stack safety as a security property*](
-  https://arxiv.org/abs/2105.00417)], by Sean Noble Anderson,
-  Leonidas Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
+  https://arxiv.org/abs/2105.00417), by Sean Noble Anderson, Leonidas
+  Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
   Submitted.
 
 ## Recent publications
