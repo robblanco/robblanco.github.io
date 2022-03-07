@@ -24,11 +24,11 @@ permalink: /publications/
   **6th Workshop on Principles of Secure Compilation** (PriSC 2022).
   Philadelphia, PA, 22 January 2022.
 
-* *An extended account of trace-relating compiler correctness and secure
-  compilation*, by Carmine Abate, Roberto Blanco, Ștefan Ciobâcă, Adrien
-  Durier, Deepak Garg, Cătălin Hriţcu, Marco Patrignani, Éric Tanter and
-  Jérémy Thibault. **ACM Transactions on Programming Languages and Systems**,
-  vol. 43, no. 4, pp. 1-48, December 2021.
+* [*An extended account of trace-relating compiler correctness and secure
+  compilation*](https://dl.acm.org/doi/10.1145/3460860), by Carmine Abate,
+  Roberto Blanco, Ștefan Ciobâcă, Adrien Durier, Deepak Garg, Cătălin Hriţcu,
+  Marco Patrignani, Éric Tanter and Jérémy Thibault. **ACM Transactions on
+  Programming Languages and Systems**, vol. 43, no. 4, pp. 1-48, December 2021.
 
 * *Security properties for stack safety*, by Sean Noble Anderson, Leonidas
   Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
