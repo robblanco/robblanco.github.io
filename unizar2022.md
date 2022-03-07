@@ -4,8 +4,8 @@ title: Programación funcional UZ 2022
 permalink: /teaching/unizar2022/
 ---
 
-Te damos la bienvenida a la página web del curso *Fundamentos del software:
-introducción a la programación verificada y segura*.
+Te damos la bienvenida a la página web del curso *Técnicas avanzadas de
+programación: el paradigma funcional*.
 
 El curso se celebrará en julio de 2022.
 
