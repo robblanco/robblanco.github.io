@@ -7,7 +7,7 @@ in the Formally Verified Security group (FOVSEC)
 at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/)
 (previously a Starting Researcher
 in the [Prosecco](https://team.inria.fr/prosecco/) team
-at [Inria Paris](https://www.inria.fr/en/centre/paris)).
+at [Inria Paris](https://www.inria.fr/en/centre-inria-de-paris)).
 I work with [Cătălin Hriţcu](https://catalin-hritcu.github.io/),
 previously as part of the ERC [SECOMP](https://secure-compilation.github.io/) project
 and the DARPA [SSITH](https://www.darpa.mil/news-events/2017-04-10) HOPE project.
@@ -32,7 +32,7 @@ in the [Parsifal](https://team.inria.fr/parsifal/) team
 at the [LIX laboratory](https://www.lix.polytechnique.fr/) at
 [École polytechnique](https://www.polytechnique.edu/)
 in [Université Paris-Saclay](https://www.universite-paris-saclay.fr/),
-and [Inria Saclay - Île de France](https://www.inria.fr/en/centre/saclay).
+and [Inria Saclay - Île de France](https://www.inria.fr/en/inria-saclay-centre).
 I was advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/)
 working in the ERC [ProofCert](https://team.inria.fr/parsifal/proofcert/) project.
 
