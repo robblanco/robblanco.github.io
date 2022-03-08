@@ -118,8 +118,8 @@ permalink: /publications/
 * [*Translating between implicit and explicit versions of proof*](
   https://hal.inria.fr/hal-01645016), by Roberto Blanco, Zakaria Chihani and
   Dale Miller. In: L. de Moura (ed.), **Proceedings of the 26th International
-  Conference on Automated Deduction** (CADE-26). Gothenburg, Sweden, 9 August
-  2017. Lecture Notes in Computer Science, vol. 10395, pp. 255-273.
+  Conference on Automated Deduction** (CADE-26). Gothenburg, Sweden,
+  9 August 2017. Lecture Notes in Computer Science, vol. 10395, pp. 255-273.
 
 * [*An interactive assistant for the definition of proof certificates*](
   https://hal.inria.fr/hal-01422829), by Roberto Blanco and Zakaria Chihani. In
