@@ -139,3 +139,76 @@ permalink: /publications/
   L. Simon (eds.), **Proceedings of the 11th International Workshop on the
   Implementation of Logics** (IWIL-2015). Suva, Fiji, 23 November 2015. EPiC
   Series in Computing, vol. 40, pp. 78-90.
+
+## Older publications
+
+* *Temporal logics for phylogenetic analysis via model checking*, by José
+  Ignacio Requeno, Gregorio de Miguel Casado, Roberto Blanco and José Manuel
+  Colom. **IEEE/ACM Transactions on Computational Biology and Bioinformatics**,
+  vol. 10, pp. 1058–1070, July 2013.
+
+* *Sliced model checking for phylogenetic analysis*, by José Ignacio Requeno,
+  Roberto Blanco, Gregorio de Miguel Casado and José Manuel Colom.  In: M. P.
+  Rocha, N. Luscombe, F. Fdez Riverola and J. M. Corchado Rodríguez (eds.),
+  **Proceedings of the 6th International Conference on Practical Applications
+  of Computational Biology & Bioinformatics** (PACBB 2012). Salamanca, Spain,
+  March 2012.  Advances in Intelligent and Soft Computing, vol. 154, pp.
+  95-103.
+
+* *Simplification methods for maximum parsimony: a relational view*, by Roberto
+  Blanco. In: F.-X. Wu, M. Zaki, S. Morishita, Y. Pan, S. Wong, A.
+  Christianson and X. Hu (eds.), **Proceedings of the 2011 IEEE International
+  Conference on Bioinformatics and Biomedicine** (BIBM 2011). Atlanta, GA,
+  November 2011, pp. 49-56.
+
+* *Rebooting the human mitochondrial phylogeny: an automated and scalable
+  methodology with expert knowledge*, by Roberto Blanco, Elvira Mayordomo,
+  Julio Montoya and Eduardo Ruiz-Pesini. **BMC Bioinformatics**, vol. 12, pp.
+  174, May 2011.
+
+* *Workflows with model selection: a multilocus approach to phylogenetic
+  analysis*, by Jorge Álvarez, Roberto Blanco and Elvira Mayordomo. In: M. P.
+  Rocha, J. M. Corchado Rodríguez, F. Fdez Riverola and A. Valencia (eds.),
+  **Proceedings of the 5th International Conference on Practical Applications
+  of Computational Biology & Bioinformatics** (PACBB 2011). Salamanca, Spain,
+  April 2011. Advances in Intelligent and Soft Computing, vol. 93, pp. 39-47.
+
+* *Phylogenetic analysis using an SMV tool*, by José Ignacio Requeno, Roberto
+  Blanco, Gregorio de Miguel Casado and José Manuel Colom. In: M. P. Rocha, J.
+  M. Corchado Rodríguez, F. Fdez Riverola and A. Valencia (eds.), **Proceedings
+  of the 5th International Conference on Practical Applications of
+  Computational Biology & Bioinformatics** (PACBB 2011). Salamanca, Spain,
+  April 2011. Advances in Intelligent and Soft Computing, vol. 93, pp.
+  167-174.
+
+* *Structural parsimony: reductions in sequence space*, by Roberto Blanco. In:
+  T. Park and L. Chen and L. Wong and S. Tsui and M. Ng and X. Hu (eds.),
+  **Proceedings of the 2010 IEEE International Conference on Bioinformatics and
+  Biomedicine** (BIBM 2010). Hong Kong, December 2010, pp. 57-61.
+
+* *Temporal logics for phylogenetic analysis via model checking*, by Roberto
+  Blanco, Gregorio de Miguel Casado, José Ignacio Requeno and José Manuel
+  Colom. In: **Proceedings of the 2010 IEEE International Conference on
+  Bioinformatics and Biomedicine Workshops** (BIBMW 2010). Hong Kong, December
+  2010, pp. 152-157.
+
+* *Scalable phylogenetics through input preprocessing*, by Roberto Blanco,
+  Elvira Mayordomo, Esther Montes, Rafael Mayo and Angelines Alberto. In: M.
+  P. Rocha, F. Fernández Riverola, F. Shatkay and J. M. Corchado Rodríguez
+  (eds.), **Proceedings of the 4th International Workshop on Practical
+  Applications of Computational Biology and Bioinformatics** (IWPACBB 2010).
+  Guimarães, Portugal, June 2010. Advances in Intelligent and Soft Computing,
+  vol. 74, pp. 123-130.
+
+* *Computational phylogenetics for human mitochondrial DNA*, by Roberto Blanco.
+  Master's thesis, Universidad de Zaragoza, 2009.
+
+* *ZARAMIT: a system for the evolutionary study of human mitochondrial DNA*, by
+  Roberto Blanco and Elvira Mayordomo. In: **Proceedings of the 3rd
+  International Workshop on Practical Applications of Computational Biology and
+  Bioinformatics** (IWPACBB 2009). Salamanca, Spain, June 2009.  Lecture Notes
+  in Computer Science, vol. 5518, pp. 1139-1142.
+
+* *Definición y prototipo de herramienta de análisis filogenético para el
+  estudio del ADNmt humano*, by Roberto Blanco. Master's thesis, Universidad de
+  Zaragoza, 2008.
