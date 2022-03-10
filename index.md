@@ -19,7 +19,7 @@ formal methods to solve computer security problems, developed along both axes:
    verification; proof certificates; type systems; computational logic.
 
  * Computer security: secure compilation; compartmentalization; security
-   policies; secure hardware.
+   policies; hardware enforcement; micropolicies; capability machines.
 
 The principal objective of my work at FOVSEC is to build secure compilation
 chains that preserve useful classes of security properties while scaling to
