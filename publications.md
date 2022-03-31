@@ -16,6 +16,10 @@ permalink: /publications/
   Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
   Submitted.
 
+* Assistant editor (collector) in: *Secure compilation (Dagstuhl seminar
+  21481)* by David Chisnall, Deepak Garg, Cătălin Hriţcu and Mathias Payer (eds.).
+  In preparation.
+
 ## Recent publications
 
 * *SecurePtrs: proving secure compilation with data-flow back-translation and
