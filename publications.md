@@ -9,7 +9,8 @@ permalink: /publications/
 * [*SecurePtrs: proving secure compilation with data-flow back-translation and
   turn-taking simulation*](https://arxiv.org/abs/2110.01439), by Akram
   El-Korashy, Roberto Blanco, Jérémy Thibault, Adrien Durier, Cătălin Hriţcu and
-  Deepak Garg. Submitted.
+  Deepak Garg. Accepted to the **35th IEEE Computer Security Foundations
+  Symposium** (CSF 2022).
 
 * [*Formalizing stack safety as a security property*](
   https://arxiv.org/abs/2105.00417), by Sean Noble Anderson, Leonidas
