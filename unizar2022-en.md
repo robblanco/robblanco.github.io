@@ -36,13 +36,39 @@ languages, through applied sessions that combine the exploration of principles
 and their practice, together with the development environments and software
 ecosystems grown around the language.
 
-## Requirements and registration
+## Registration
 
 Available soon.
 
 ## Syllabus
 
-Available soon.
+The course will cover the following topics:
+
+ - Types and functions
+
+ - Data structures
+
+ - Higher-order programming
+
+ - Modules
+
+ - Imperative and multi-paradign programming
+
+ - Systems programming in OCaml
+
+ - Secure programming in OCaml
+
+ - OCaml programming environment
+
+ - OCaml software ecosystem
+
+ - Testing and software quality
+
+ - Theoretical foundations
+
+ - Programming projects
+
+A detailed syllabus will be available soon.
 
 ## Grading
 
