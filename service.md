@@ -12,6 +12,8 @@ its service to society.
 
 I am or have been part of the following program committees:
 
+* CSF 2023
+
 * CSF 2022
 
 * PLDI 2022 Artifact Evaluation
