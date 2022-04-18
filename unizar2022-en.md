@@ -72,7 +72,13 @@ A detailed syllabus will be available soon.
 
 ## Grading
 
-Available soon.
+All students who attend the sessions will receive a certificate of
+participation.
+
+Students taking the class for credit will need to propose and carry out a small
+programming project in consultation with the organizers.
+
+More details will be available soon.
 
 ## Materials
 
