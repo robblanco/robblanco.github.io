@@ -52,7 +52,7 @@ The course will cover the following topics:
 
  - Modules
 
- - Imperative and multi-paradign programming
+ - Imperative and multi-paradigm programming
 
  - Systems programming in OCaml
 
