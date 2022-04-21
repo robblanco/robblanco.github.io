@@ -17,10 +17,6 @@ permalink: /publications/
   Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
   Submitted.
 
-* Assistant editor (collector) in: *Secure compilation (Dagstuhl seminar
-  21481)* by David Chisnall, Deepak Garg, Cătălin Hriţcu and Mathias Payer (eds.).
-  In preparation.
-
 ## Recent publications
 
 * *SecurePtrs: proving secure compilation with data-flow back-translation and
@@ -34,6 +30,12 @@ permalink: /publications/
   Roberto Blanco, Ștefan Ciobâcă, Adrien Durier, Deepak Garg, Cătălin Hriţcu,
   Marco Patrignani, Éric Tanter and Jérémy Thibault. **ACM Transactions on
   Programming Languages and Systems**, vol. 43, no. 4, pp. 1-48, December 2021.
+
+* Assistant editor (collector) in: [*Secure compilation (Dagstuhl seminar
+  21481)*](
+  https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf),
+  by David Chisnall, Deepak Garg, Cătălin Hriţcu and Mathias Payer (eds.).
+  **Dagstuhl Reports**, vol. 11(10), pp. 173-204, November 2021.
 
 * *Security properties for stack safety*, by Sean Noble Anderson, Leonidas
   Lampropoulos, Roberto Blanco, Benjamin C. Pierce and Andrew Tolmach.
