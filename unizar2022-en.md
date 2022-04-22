@@ -42,33 +42,57 @@ Available soon.
 
 ## Syllabus
 
-The course will cover the following topics:
+The course will cover these topics and follow this preliminary schedule, with
+the possibility small adjustments to accommodate and emphasize topics of
+special interest to participants. All sessions combine theory and exercises.
+
+The last day is devoted entirely to conversations and discussion with prominent
+members of the OCaml community and will be open to the general public. A
+detailed schedule will be available soon.
+
+4 July 2022
+
+ - Introduction. The OCaml programming environment
 
  - Types and functions
 
- - Data structures
-
- - Higher-order programming
-
- - Modules
+ - Fundamental data structures
 
  - Imperative and multi-paradigm programming
 
- - Systems programming in OCaml
+5 July 2022
 
- - Secure programming in OCaml
+ - Advanced data structures
 
- - OCaml programming environment
+ - Higher-order programming
 
- - OCaml software ecosystem
+ - Modular programming
+
+ - Systems programming
+
+6 July 2022
+
+ - Case studies
 
  - Testing and software quality
 
+ - Software ecosystem
+
+ - Secure and defensive programming
+
+7 July 2022
+
  - Theoretical foundations
+
+ - Foreign function interface
 
  - Programming projects
 
-A detailed syllabus will be available soon.
+ - Lab
+
+8 July 2022
+
+ - Development team and industry event
 
 ## Grading
 
