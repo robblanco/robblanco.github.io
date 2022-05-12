@@ -184,4 +184,4 @@ propiedades de sistemas como rendimiento, seguridad y *dependability*.
 ## Patrocinadores y ayudas
 
 El curso está patrocinado por la
-[OCaml Software Foundation](http://ocaml-sf.org/).
+[OCaml Software Foundation](https://ocaml-sf.org/).
