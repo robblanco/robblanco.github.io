@@ -137,6 +137,12 @@ distinguidos de la comunidad de programación de OCaml. Este evento estará
 abierto al público además de a los participantes del curso. El horario
 definitivo estará disponible próximamente.
 
+## Idioma
+
+Las clases del 4 al 7 de julio se impartirán en español.
+
+El evento del 8 de julio se celebrará en inglés.
+
 ## Evaluación
 
 La organización de los cursos de verano expedirá un diploma de participación a
