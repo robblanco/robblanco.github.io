@@ -6,6 +6,9 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
+# colorScheme = "marvel"
+# colorScheme = "neon"
+# colorScheme = "slate"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
