@@ -17,7 +17,7 @@ title = "Rob Blanco"
 [params.author]
   name = "Rob Blanco"
   email = "r.blanco@tue.nl"
-#   image = "img/blowfish_logo.png"
+  image = "img/author.jpg"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
